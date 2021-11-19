@@ -1,0 +1,27 @@
+Planning to develop an angular Framework with various designs and reusable components which are configurable,
+
+Simplifying data loaders, data binding
+
+
+Adding new features
+Adding more Reusable UIs
+Adding reusable functionalities
+
+
+    page-enable-gps .m-wrapper {
+    	margin: 0px !imporant;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+ion-searchbar{
+    padding-top: 15px;
+    height: 50px;
+    padding-right: 5px;
+    padding-left: 0px;
+}
+
+https://www.indiabix.com/online-test/aptitude-test/7
+https://www.indiabix.com/aptitude/boats-and-streams/042003

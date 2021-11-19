@@ -1,0 +1,5723 @@
+{
+    "results": [
+  
+        {
+            "# id": 100569,
+            "english_word": "Unfading",
+            "part_of_speech": "a",
+            "malayalam_definition": "മായാത്ത"
+        },
+        {
+            "# id": 100570,
+            "english_word": "Unfading",
+            "part_of_speech": "a",
+            "malayalam_definition": "മങ്ങാത്ത"
+        },
+        {
+            "# id": 120858,
+            "english_word": "Unfailing",
+            "part_of_speech": "a",
+            "malayalam_definition": "പിഴക്കാത്ത"
+        },
+        {
+            "# id": 120859,
+            "english_word": "Unfailing",
+            "part_of_speech": "a",
+            "malayalam_definition": "തോല്‍ക്കാത്ത"
+        },
+        {
+            "# id": 120860,
+            "english_word": "Unfailing",
+            "part_of_speech": "a",
+            "malayalam_definition": "പൂര്‍ണ്ണമായും ആശ്രയിക്കാവുന്ന"
+        },
+        {
+            "# id": 87049,
+            "english_word": "Unfair",
+            "part_of_speech": "a",
+            "malayalam_definition": "നീതിയുക്തമല്ലാത്ത"
+        },
+        {
+            "# id": 87050,
+            "english_word": "Unfair",
+            "part_of_speech": "a",
+            "malayalam_definition": "ന്യായരഹതിമായ"
+        },
+        {
+            "# id": 87051,
+            "english_word": "Unfair",
+            "part_of_speech": "a",
+            "malayalam_definition": "പക്ഷപാതപൂര്‍ണ്ണമായ"
+        },
+        {
+            "# id": 169967,
+            "english_word": "Unfair",
+            "part_of_speech": "a",
+            "malayalam_definition": "ന്യായരഹിതമായ"
+        },
+        {
+            "# id": 169968,
+            "english_word": "Unfair",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനീതിയായ"
+        },
+        {
+            "# id": 201966,
+            "english_word": "Unfair trade practice",
+            "part_of_speech": "n",
+            "malayalam_definition": "അധാർമിക വ്യാപാര രീതി"
+        },
+        {
+            "# id": 87068,
+            "english_word": "Unfairly",
+            "part_of_speech": "a",
+            "malayalam_definition": "നീതിയുക്തമല്ലാത്തതായി"
+        },
+        {
+            "# id": 87069,
+            "english_word": "Unfairly",
+            "part_of_speech": "a",
+            "malayalam_definition": "ന്യായരഹിതമായി"
+        },
+        {
+            "# id": 87094,
+            "english_word": "Unfairness",
+            "part_of_speech": "n",
+            "malayalam_definition": "നീതിയുക്തത"
+        },
+        {
+            "# id": 87095,
+            "english_word": "Unfairness",
+            "part_of_speech": "n",
+            "malayalam_definition": "ന്യായരഹിതം"
+        },
+        {
+            "# id": 87111,
+            "english_word": "Unfaith",
+            "part_of_speech": "n",
+            "malayalam_definition": "അവിശ്വാസം"
+        },
+        {
+            "# id": 87132,
+            "english_word": "Unfaithful",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിശ്വാസിക്കാന്‍ കൊള്ളാത്ത"
+        },
+        {
+            "# id": 87133,
+            "english_word": "Unfaithful",
+            "part_of_speech": "a",
+            "malayalam_definition": "വാഗ്‌ദാനലംഘിയായ"
+        },
+        {
+            "# id": 87134,
+            "english_word": "Unfaithful",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്വാമിഭക്തിയില്ലാത്ത"
+        },
+        {
+            "# id": 87135,
+            "english_word": "Unfaithful",
+            "part_of_speech": "a",
+            "malayalam_definition": "പാതിവ്രത്യമില്ലാത്ത"
+        },
+        {
+            "# id": 169969,
+            "english_word": "Unfaithful",
+            "part_of_speech": "a",
+            "malayalam_definition": "അവിശ്വസ്‌തമായ"
+        },
+        {
+            "# id": 169970,
+            "english_word": "Unfaithful",
+            "part_of_speech": "a",
+            "malayalam_definition": "നേരുകെട്ട"
+        },
+        {
+            "# id": 169971,
+            "english_word": "Unfaithful",
+            "part_of_speech": "a",
+            "malayalam_definition": "നന്ദിയില്ലാത്ത"
+        },
+        {
+            "# id": 216588,
+            "english_word": "Unfaithful",
+            "part_of_speech": "a",
+            "malayalam_definition": "അവിശ്വസ്തമായ"
+        },
+        {
+            "# id": 87152,
+            "english_word": "Unfaithfully",
+            "part_of_speech": "a",
+            "malayalam_definition": "വാഗ്‌ദാനലംഘിയായി"
+        },
+        {
+            "# id": 87153,
+            "english_word": "Unfaithfully",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിശ്വസിക്കാന്‍ കൊള്ളാത്തതായി"
+        },
+        {
+            "# id": 87168,
+            "english_word": "Unfaithfulness",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിശ്വസിക്കാന്‍ കൊള്ളാത്ത"
+        },
+        {
+            "# id": 87169,
+            "english_word": "Unfaithfulness",
+            "part_of_speech": "v",
+            "malayalam_definition": "വാഗ്‌ദാനം ലംഘിക്കുക"
+        },
+        {
+            "# id": 201680,
+            "english_word": "Unfalsifiable",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിരീക്ഷണ പരീക്ഷണങ്ങളിലൂടെ തെറ്റാണെന്ന് തെളിയിക്കാന്‍ ആവാത്തത്"
+        },
+        {
+            "# id": 87190,
+            "english_word": "Unfamiliar",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശീലമില്ലാത്ത"
+        },
+        {
+            "# id": 87191,
+            "english_word": "Unfamiliar",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപരിചിതമായ"
+        },
+        {
+            "# id": 87192,
+            "english_word": "Unfamiliar",
+            "part_of_speech": "a",
+            "malayalam_definition": "സുവിദിതമല്ലാത്ത"
+        },
+        {
+            "# id": 170001,
+            "english_word": "Unfamiliar",
+            "part_of_speech": "a",
+            "malayalam_definition": "പുത്തനായ"
+        },
+        {
+            "# id": 170002,
+            "english_word": "Unfamiliar",
+            "part_of_speech": "a",
+            "malayalam_definition": "പരിചയമില്ലാത്ത"
+        },
+        {
+            "# id": 170003,
+            "english_word": "Unfamiliarity",
+            "part_of_speech": "n",
+            "malayalam_definition": "അപരിചിതാവസ്ഥ"
+        },
+        {
+            "# id": 170004,
+            "english_word": "Unfamiliarity",
+            "part_of_speech": "n",
+            "malayalam_definition": "അറിവില്ലാത്തസ്ഥിതി"
+        },
+        {
+            "# id": 170005,
+            "english_word": "Unfashionable",
+            "part_of_speech": "a",
+            "malayalam_definition": "പരിഷ്‌കാരമില്ലാത്ത"
+        },
+        {
+            "# id": 170006,
+            "english_word": "Unfashionable",
+            "part_of_speech": "a",
+            "malayalam_definition": "പതിവില്ലാത്ത"
+        },
+        {
+            "# id": 170007,
+            "english_word": "Unfashionable",
+            "part_of_speech": "a",
+            "malayalam_definition": "മോടിയില്ലാത്ത"
+        },
+        {
+            "# id": 216589,
+            "english_word": "Unfashionable",
+            "part_of_speech": "a",
+            "malayalam_definition": "പരിഷ്കാരമില്ലാത്ത"
+        },
+        {
+            "# id": 216590,
+            "english_word": "Unfashionable",
+            "part_of_speech": "a",
+            "malayalam_definition": "മോടിയില്ലാത്ത"
+        },
+        {
+            "# id": 119873,
+            "english_word": "Unfathomable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അളക്കാനാവാത്ത"
+        },
+        {
+            "# id": 169972,
+            "english_word": "Unfathomable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അടികാണാത്ത"
+        },
+        {
+            "# id": 169973,
+            "english_word": "Unfathomable",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിലയില്ലാത്ത"
+        },
+        {
+            "# id": 169974,
+            "english_word": "Unfathomable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അഗാധമായ"
+        },
+        {
+            "# id": 169975,
+            "english_word": "Unfathomable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആഴമേറിയ"
+        },
+        {
+            "# id": 119830,
+            "english_word": "Unfavorable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അഹിതകരമായ"
+        },
+        {
+            "# id": 119831,
+            "english_word": "Unfavorable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അതൃപ്‌തികരമായ"
+        },
+        {
+            "# id": 87220,
+            "english_word": "Unfavourable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനുകൂലമല്ലാത്ത"
+        },
+        {
+            "# id": 87221,
+            "english_word": "Unfavourable",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രതികൂലമായ"
+        },
+        {
+            "# id": 169976,
+            "english_word": "Unfavourable",
+            "part_of_speech": "a",
+            "malayalam_definition": "കരുണയില്ലാത്ത"
+        },
+        {
+            "# id": 169977,
+            "english_word": "Unfavourable",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍ദ്ദയമായ"
+        },
+        {
+            "# id": 169978,
+            "english_word": "Unfavourable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അശുഭമായ"
+        },
+        {
+            "# id": 169979,
+            "english_word": "Unfavourable",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിപരീതമായ"
+        },
+        {
+            "# id": 87242,
+            "english_word": "Unfavourably",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രതികൂലമായി"
+        },
+        {
+            "# id": 174294,
+            "english_word": "Unfazed",
+            "part_of_speech": "-",
+            "malayalam_definition": "ഭയമില്ലാത്ത"
+        },
+        {
+            "# id": 174295,
+            "english_word": "Unfazed",
+            "part_of_speech": "a",
+            "malayalam_definition": "പേടി ഇല്ലാതെ"
+        },
+        {
+            "# id": 175158,
+            "english_word": "Unfazed",
+            "part_of_speech": "a",
+            "malayalam_definition": "അക്ഷോഭ്യനായി"
+        },
+        {
+            "# id": 219101,
+            "english_word": "Unfazed",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഒരു പാളിയും കൂടാതെ ഉള്ളത്"
+        },
+        {
+            "# id": 220904,
+            "english_word": "Unfeasible",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസൗകര്യപ്രദമായ"
+        },
+        {
+            "# id": 87265,
+            "english_word": "Unfeeling",
+            "part_of_speech": "a",
+            "malayalam_definition": "കൃപയില്ലാത്ത"
+        },
+        {
+            "# id": 87266,
+            "english_word": "Unfeeling",
+            "part_of_speech": "a",
+            "malayalam_definition": "വികാരശൂന്യനായ"
+        },
+        {
+            "# id": 87267,
+            "english_word": "Unfeeling",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍ദ്ധയനായ"
+        },
+        {
+            "# id": 101589,
+            "english_word": "Unfeigned",
+            "part_of_speech": "a",
+            "malayalam_definition": "അഭിനയമില്ലാത്ത"
+        },
+        {
+            "# id": 101590,
+            "english_word": "Unfeigned",
+            "part_of_speech": "a",
+            "malayalam_definition": "കാപട്യരഹിതമായ"
+        },
+        {
+            "# id": 170008,
+            "english_word": "Unfeigned",
+            "part_of_speech": "a",
+            "malayalam_definition": "കപടമില്ലാത്ത"
+        },
+        {
+            "# id": 170009,
+            "english_word": "Unfeigned",
+            "part_of_speech": "a",
+            "malayalam_definition": "നാട്യമല്ലാത്ത"
+        },
+        {
+            "# id": 170010,
+            "english_word": "Unfeigned",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍വ്യാജമായ"
+        },
+        {
+            "# id": 102062,
+            "english_word": "Unfettered",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചങ്ങലക്കിടാത്ത"
+        },
+        {
+            "# id": 170011,
+            "english_word": "Unfettered",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിലങ്ങുമാറ്റിയ"
+        },
+        {
+            "# id": 170012,
+            "english_word": "Unfettered",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്വതന്ത്രമാക്കപ്പെട്ട"
+        },
+        {
+            "# id": 119794,
+            "english_word": "Unfilled",
+            "part_of_speech": "a",
+            "malayalam_definition": "പൂരിതമാകാത്ത"
+        },
+        {
+            "# id": 120489,
+            "english_word": "Unfinished",
+            "part_of_speech": "a",
+            "malayalam_definition": "പൂര്‍ത്തിയാക്കാത്ത"
+        },
+        {
+            "# id": 120490,
+            "english_word": "Unfinished",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപൂര്‍ണ്ണമായ"
+        },
+        {
+            "# id": 169980,
+            "english_word": "Unfinished",
+            "part_of_speech": "a",
+            "malayalam_definition": "തീരാത്ത"
+        },
+        {
+            "# id": 169981,
+            "english_word": "Unfinished",
+            "part_of_speech": "a",
+            "malayalam_definition": "പൂര്‍ത്തിയാവാത്ത"
+        },
+        {
+            "# id": 87288,
+            "english_word": "Unfit",
+            "part_of_speech": "a",
+            "malayalam_definition": "പറ്റാത്ത"
+        },
+        {
+            "# id": 87289,
+            "english_word": "Unfit",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉപയോഗമില്ലാത്ത"
+        },
+        {
+            "# id": 87290,
+            "english_word": "Unfit",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചേര്‍ച്ചയില്ലാത്ത"
+        },
+        {
+            "# id": 87291,
+            "english_word": "Unfit",
+            "part_of_speech": "a",
+            "malayalam_definition": "കൊള്ളാത്ത"
+        },
+        {
+            "# id": 87292,
+            "english_word": "Unfit",
+            "part_of_speech": "a",
+            "malayalam_definition": "യോഗ്യതയില്ലാത്ത"
+        },
+        {
+            "# id": 169982,
+            "english_word": "Unfit",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉചിതമല്ലാത്ത"
+        },
+        {
+            "# id": 169983,
+            "english_word": "Unfit",
+            "part_of_speech": "a",
+            "malayalam_definition": "അയോഗ്യമായ"
+        },
+        {
+            "# id": 169984,
+            "english_word": "Unfit",
+            "part_of_speech": "v",
+            "malayalam_definition": "നിരുപയോഗമാക്കുക"
+        },
+        {
+            "# id": 169985,
+            "english_word": "Unfit",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഗുണഹീനമാക്കുക"
+        },
+        {
+            "# id": 116705,
+            "english_word": "Unfit for",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചേരാത്ത"
+        },
+        {
+            "# id": 120865,
+            "english_word": "Unflagging",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദൃഢചിത്തനായ"
+        },
+        {
+            "# id": 120866,
+            "english_word": "Unflagging",
+            "part_of_speech": "a",
+            "malayalam_definition": "അശ്രാന്തമായ"
+        },
+        {
+            "# id": 120867,
+            "english_word": "Unflagging",
+            "part_of_speech": "a",
+            "malayalam_definition": "തളരാത്ത"
+        },
+        {
+            "# id": 170013,
+            "english_word": "Unflagging",
+            "part_of_speech": "a",
+            "malayalam_definition": "ധൈര്യക്കേടില്ലാത്ത"
+        },
+        {
+            "# id": 170014,
+            "english_word": "Unflagging",
+            "part_of_speech": "a",
+            "malayalam_definition": "ക്ഷീണിക്കാത്ത"
+        },
+        {
+            "# id": 170015,
+            "english_word": "Unflagging",
+            "part_of_speech": "a",
+            "malayalam_definition": "മടുക്കാത്ത"
+        },
+        {
+            "# id": 170018,
+            "english_word": "Unflaggingly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ക്ഷീണിക്കാത്തതായി"
+        },
+        {
+            "# id": 170019,
+            "english_word": "Unflaggingly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "മടുക്കാത്തതായി"
+        },
+        {
+            "# id": 170022,
+            "english_word": "Unflappability",
+            "part_of_speech": "n",
+            "malayalam_definition": "അക്ഷോഭ്യത"
+        },
+        {
+            "# id": 170023,
+            "english_word": "Unflappability",
+            "part_of_speech": "n",
+            "malayalam_definition": "ശാന്തചിത്തത"
+        },
+        {
+            "# id": 170020,
+            "english_word": "Unflappable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അക്ഷോഭ്യമായ"
+        },
+        {
+            "# id": 170021,
+            "english_word": "Unflappable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശാന്തമായ"
+        },
+        {
+            "# id": 170024,
+            "english_word": "Unflattering",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുഖസ്‌തുതി പറയാത്ത"
+        },
+        {
+            "# id": 170025,
+            "english_word": "Unflattering",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രത്യാശനല്‍കാത്ത"
+        },
+        {
+            "# id": 216591,
+            "english_word": "Unflattering",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുഖസ്തുതി പറയാത്ത"
+        },
+        {
+            "# id": 113593,
+            "english_word": "Unflinching",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യതിചലിക്കാത്ത"
+        },
+        {
+            "# id": 169986,
+            "english_word": "Unflinching",
+            "part_of_speech": "a",
+            "malayalam_definition": "പിന്‍വാങ്ങാത്ത"
+        },
+        {
+            "# id": 169987,
+            "english_word": "Unflinching",
+            "part_of_speech": "a",
+            "malayalam_definition": "അചഞ്ചലമായ"
+        },
+        {
+            "# id": 169988,
+            "english_word": "Unflinching",
+            "part_of_speech": "a",
+            "malayalam_definition": "ധീരതയുള്ള"
+        },
+        {
+            "# id": 87017,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "വിരിക്കുക"
+        },
+        {
+            "# id": 87018,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "തുറക്കുക"
+        },
+        {
+            "# id": 87019,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "വിവൃതമാക്കുക"
+        },
+        {
+            "# id": 87020,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "വെളിവാക്കുക"
+        },
+        {
+            "# id": 87021,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "പ്രദര്‍ശിപ്പിക്കുക"
+        },
+        {
+            "# id": 87022,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "വിസ്‌തരിക്കുക"
+        },
+        {
+            "# id": 169991,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "പ്രകടിപ്പിക്കുക"
+        },
+        {
+            "# id": 169992,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "പ്രകാശിപ്പിക്കുക"
+        },
+        {
+            "# id": 169993,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "വര്‍ണ്ണിക്കുക"
+        },
+        {
+            "# id": 198835,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "നിവര്‍ക്കുക"
+        },
+        {
+            "# id": 198836,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "തുറന്നുകാട്ടുക"
+        },
+        {
+            "# id": 198837,
+            "english_word": "Unfold",
+            "part_of_speech": "v",
+            "malayalam_definition": "തെളിവായിവരിക"
+        },
+        {
+            "# id": 111301,
+            "english_word": "Unfolding",
+            "part_of_speech": "n",
+            "malayalam_definition": "ചുരുളഴിയല്‍"
+        },
+        {
+            "# id": 87023,
+            "english_word": "Unforeseen",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപ്രതീക്ഷിതമായ"
+        },
+        {
+            "# id": 87024,
+            "english_word": "Unforeseen",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുന്‍കൂട്ടിക്കാണാത്ത"
+        },
+        {
+            "# id": 170026,
+            "english_word": "Unforeseen",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുന്‍കൂട്ടി അറിയാത്ത"
+        },
+        {
+            "# id": 87025,
+            "english_word": "Unforgettable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അവിസ്‌മരണീയമായ"
+        },
+        {
+            "# id": 170027,
+            "english_word": "Unforgettable",
+            "part_of_speech": "a",
+            "malayalam_definition": "മറക്കാനാവാത്ത"
+        },
+        {
+            "# id": 170028,
+            "english_word": "Unforgivable",
+            "part_of_speech": "a",
+            "malayalam_definition": "സഹനീയമല്ലാത്ത"
+        },
+        {
+            "# id": 170029,
+            "english_word": "Unforgivable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ക്ഷമിക്കാവുന്നതല്ലാത്ത"
+        },
+        {
+            "# id": 120925,
+            "english_word": "Unforgiving",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രതികാരശീലമുള്ള"
+        },
+        {
+            "# id": 120926,
+            "english_word": "Unforgiving",
+            "part_of_speech": "a",
+            "malayalam_definition": "പകവീട്ടുന്ന"
+        },
+        {
+            "# id": 120927,
+            "english_word": "Unforgiving",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിരോധമുള്ള"
+        },
+        {
+            "# id": 170030,
+            "english_word": "Unforgiving",
+            "part_of_speech": "a",
+            "malayalam_definition": "ക്ഷമിച്ചുകൊടുക്കാത്ത"
+        },
+        {
+            "# id": 170031,
+            "english_word": "Unforgiving",
+            "part_of_speech": "a",
+            "malayalam_definition": "മാപ്പുനല്‍കപ്പെടാത്ത"
+        },
+        {
+            "# id": 216592,
+            "english_word": "Unforgiving",
+            "part_of_speech": "a",
+            "malayalam_definition": "ക്ഷമിച്ചുകൊടുക്കാത്ത"
+        },
+        {
+            "# id": 170032,
+            "english_word": "Unformed",
+            "part_of_speech": "a",
+            "malayalam_definition": "രൂപം കൊടുക്കാത്ത"
+        },
+        {
+            "# id": 170033,
+            "english_word": "Unformed",
+            "part_of_speech": "a",
+            "malayalam_definition": "രൂപമില്ലാത്ത"
+        },
+        {
+            "# id": 170034,
+            "english_word": "Unformed",
+            "part_of_speech": "a",
+            "malayalam_definition": "രൂപപ്പെടാത്ത"
+        },
+        {
+            "# id": 216593,
+            "english_word": "Unformed",
+            "part_of_speech": "a",
+            "malayalam_definition": "രൂപം കൊടുക്കാത്ത"
+        },
+        {
+            "# id": 219699,
+            "english_word": "Unforthcoming",
+            "part_of_speech": "a",
+            "malayalam_definition": "സഹായിക്കാത്ത"
+        },
+        {
+            "# id": 219700,
+            "english_word": "Unforthcoming",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിസ്സഹകരണ മനോഭാവമുള്ള"
+        },
+        {
+            "# id": 87026,
+            "english_word": "Unfortunate",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദുര്‍ഭാഗ്യമുള്ള"
+        },
+        {
+            "# id": 87027,
+            "english_word": "Unfortunate",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശോചനീയമായ"
+        },
+        {
+            "# id": 87028,
+            "english_word": "Unfortunate",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആപത്തുവരുത്തുന്ന"
+        },
+        {
+            "# id": 169994,
+            "english_word": "Unfortunate",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍ഭാഗ്യമുള്ള"
+        },
+        {
+            "# id": 169995,
+            "english_word": "Unfortunate",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭാഗ്യഹീനമായ"
+        },
+        {
+            "# id": 169996,
+            "english_word": "Unfortunate",
+            "part_of_speech": "a",
+            "malayalam_definition": "അശുഭകരമായ"
+        },
+        {
+            "# id": 169997,
+            "english_word": "Unfortunate",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദൗര്‍ഭാഗ്യകരമായ"
+        },
+        {
+            "# id": 169998,
+            "english_word": "Unfortunate",
+            "part_of_speech": "a",
+            "malayalam_definition": "അശുഭമായ"
+        },
+        {
+            "# id": 111632,
+            "english_word": "Unfortunate man",
+            "part_of_speech": "n",
+            "malayalam_definition": "നിര്‍ഭാഗ്യവാന്‍"
+        },
+        {
+            "# id": 109649,
+            "english_word": "Unfortunate woman",
+            "part_of_speech": "n",
+            "malayalam_definition": "ദുര്‍ഭാഗ്യവതി"
+        },
+        {
+            "# id": 87035,
+            "english_word": "Unfortunately",
+            "part_of_speech": "-",
+            "malayalam_definition": "നിര്‍ഭാഗ്യവശാല്‍"
+        },
+        {
+            "# id": 169999,
+            "english_word": "Unfortunately",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ദൗര്‍ഭാഗ്യവശാല്‍"
+        },
+        {
+            "# id": 170000,
+            "english_word": "Unfortunately",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ഭാഗ്യദോഷത്താല്‍"
+        },
+        {
+            "# id": 216594,
+            "english_word": "Unfortunately",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ഭാഗ്യദോഷത്താല്‍"
+        },
+        {
+            "# id": 87036,
+            "english_word": "Unfounded",
+            "part_of_speech": "a",
+            "malayalam_definition": "അടിസ്ഥാനരഹിതമായ"
+        },
+        {
+            "# id": 170039,
+            "english_word": "Unfounded",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിരാധാരമായ"
+        },
+        {
+            "# id": 170035,
+            "english_word": "Unfreeze",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഘനീഭവിപ്പിക്കാതിരിക്കുക"
+        },
+        {
+            "# id": 170036,
+            "english_word": "Unfreeze",
+            "part_of_speech": "v",
+            "malayalam_definition": "നിശ്ചലമാക്കാതിരിക്കുക"
+        },
+        {
+            "# id": 174726,
+            "english_word": "Unfreeze",
+            "part_of_speech": "v",
+            "malayalam_definition": "അലിയിക്കുക"
+        },
+        {
+            "# id": 87040,
+            "english_word": "Unfriendliness",
+            "part_of_speech": "n",
+            "malayalam_definition": "സ്‌നേഹശൂന്യത"
+        },
+        {
+            "# id": 87041,
+            "english_word": "Unfriendliness",
+            "part_of_speech": "n",
+            "malayalam_definition": "പ്രതികൂലത"
+        },
+        {
+            "# id": 87037,
+            "english_word": "Unfriendly",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്‌നേഹശൂന്യമായ"
+        },
+        {
+            "# id": 87038,
+            "english_word": "Unfriendly",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രതികൂലമായ"
+        },
+        {
+            "# id": 87039,
+            "english_word": "Unfriendly",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശത്രുത്വമായ"
+        },
+        {
+            "# id": 170040,
+            "english_word": "Unfriendly",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്‌നേഹഭാവമില്ലാത്ത"
+        },
+        {
+            "# id": 170041,
+            "english_word": "Unfriendly",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശത്രുത്വമുള്ള"
+        },
+        {
+            "# id": 170042,
+            "english_word": "Unfriendly",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിരോധമുള്ള"
+        },
+        {
+            "# id": 216595,
+            "english_word": "Unfriendly",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്നേഹഭാവമില്ലാത്ത"
+        },
+        {
+            "# id": 216596,
+            "english_word": "Unfriendly",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിരോധമുള്ള"
+        },
+        {
+            "# id": 174724,
+            "english_word": "Unfrozen",
+            "part_of_speech": "-",
+            "malayalam_definition": "അലിയിക്കപ്പെട്ട"
+        },
+        {
+            "# id": 174725,
+            "english_word": "Unfrozen",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഘനീഭവിപ്പിക്കാതിരിക്കപ്പെട്ട"
+        },
+        {
+            "# id": 87042,
+            "english_word": "Unfruitful",
+            "part_of_speech": "a",
+            "malayalam_definition": "കായ്‌ക്കാത്ത"
+        },
+        {
+            "# id": 87043,
+            "english_word": "Unfruitful",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിഫലമായ"
+        },
+        {
+            "# id": 87044,
+            "english_word": "Unfruitful",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിളയാത്ത"
+        },
+        {
+            "# id": 87045,
+            "english_word": "Unfruitful",
+            "part_of_speech": "a",
+            "malayalam_definition": "വന്ധ്യയായ"
+        },
+        {
+            "# id": 102888,
+            "english_word": "Unfulfilled",
+            "part_of_speech": "a",
+            "malayalam_definition": "പൂര്‍ത്തീകരിക്കപ്പെടാത്ത"
+        },
+        {
+            "# id": 120869,
+            "english_word": "Unfurl",
+            "part_of_speech": "-",
+            "malayalam_definition": "നീണ്ട"
+        },
+        {
+            "# id": 120870,
+            "english_word": "Unfurl",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിസ്‌തൃതമായ"
+        },
+        {
+            "# id": 170043,
+            "english_word": "Unfurl",
+            "part_of_speech": "v",
+            "malayalam_definition": "തുറക്കുക"
+        },
+        {
+            "# id": 170044,
+            "english_word": "Unfurl",
+            "part_of_speech": "v",
+            "malayalam_definition": "പറത്തുക"
+        },
+        {
+            "# id": 170045,
+            "english_word": "Unfurl",
+            "part_of_speech": "v",
+            "malayalam_definition": "വിടര്‍ത്തുക"
+        },
+        {
+            "# id": 87046,
+            "english_word": "Unfurnished",
+            "part_of_speech": "a",
+            "malayalam_definition": "വീട്ടുസാധനമില്ലാത്ത"
+        },
+        {
+            "# id": 87047,
+            "english_word": "Unfurnished",
+            "part_of_speech": "a",
+            "malayalam_definition": "അലങ്കാരമില്ലാത്ത"
+        },
+        {
+            "# id": 170046,
+            "english_word": "Unfurnished",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസജ്ജീകൃതമായ"
+        },
+        {
+            "# id": 170047,
+            "english_word": "Unfurnished",
+            "part_of_speech": "a",
+            "malayalam_definition": "വീട്ടിലെ അകസ്സാമാനങ്ങള്‍ എടുത്തുമാറ്റിയ"
+        },
+        {
+            "# id": 170049,
+            "english_word": "Ungainliness",
+            "part_of_speech": "-",
+            "malayalam_definition": "ഭംഗികേട്‌"
+        },
+        {
+            "# id": 170050,
+            "english_word": "Ungainliness",
+            "part_of_speech": "n",
+            "malayalam_definition": "വൈകൃതം"
+        },
+        {
+            "# id": 216597,
+            "english_word": "Ungainliness",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഭംഗികേട്"
+        },
+        {
+            "# id": 87052,
+            "english_word": "Ungainly",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചന്തമില്ലാത്ത"
+        },
+        {
+            "# id": 87053,
+            "english_word": "Ungainly",
+            "part_of_speech": "a",
+            "malayalam_definition": "പടുപണിയായ"
+        },
+        {
+            "# id": 87054,
+            "english_word": "Ungainly",
+            "part_of_speech": "a",
+            "malayalam_definition": "കോലംകെട്ട"
+        },
+        {
+            "# id": 170048,
+            "english_word": "Ungainly",
+            "part_of_speech": "a",
+            "malayalam_definition": "വികൃതമായ"
+        },
+        {
+            "# id": 198838,
+            "english_word": "Ungainly",
+            "part_of_speech": "-",
+            "malayalam_definition": "അസമര്‍ത്ഥമായ"
+        },
+        {
+            "# id": 198839,
+            "english_word": "Ungainly",
+            "part_of_speech": "-",
+            "malayalam_definition": "ഭംഗികേടായ"
+        },
+        {
+            "# id": 198840,
+            "english_word": "Ungainly",
+            "part_of_speech": "-",
+            "malayalam_definition": "ബുദ്ധിമുട്ടേറിയ"
+        },
+        {
+            "# id": 198841,
+            "english_word": "Ungainly",
+            "part_of_speech": "-",
+            "malayalam_definition": "കോലംകെട്ട"
+        },
+        {
+            "# id": 87055,
+            "english_word": "Ungodly",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഈശ്വരഭക്തിയില്ലാത്ത"
+        },
+        {
+            "# id": 87056,
+            "english_word": "Ungodly",
+            "part_of_speech": "a",
+            "malayalam_definition": "പാപിയായ"
+        },
+        {
+            "# id": 87057,
+            "english_word": "Ungodly",
+            "part_of_speech": "a",
+            "malayalam_definition": "ധര്‍മ്മവിമുകനായ"
+        },
+        {
+            "# id": 87058,
+            "english_word": "Ungodly",
+            "part_of_speech": "a",
+            "malayalam_definition": "ക്രൂരനായ"
+        },
+        {
+            "# id": 170051,
+            "english_word": "Ungodly",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനുചിതമായ സമയത്തുള്ള"
+        },
+        {
+            "# id": 120883,
+            "english_word": "Ungovernable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭരിക്കപ്പെടാന്‍ കഴിയാത്ത"
+        },
+        {
+            "# id": 170058,
+            "english_word": "Ungovernable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭരിക്കുവാനസാദ്ധ്യമായ"
+        },
+        {
+            "# id": 170059,
+            "english_word": "Ungovernable",
+            "part_of_speech": "a",
+            "malayalam_definition": "കീഴടങ്ങാത്ത"
+        },
+        {
+            "# id": 170060,
+            "english_word": "Ungovernable",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിയന്ത്രണവിധേയമല്ലാത്ത"
+        },
+        {
+            "# id": 198842,
+            "english_word": "Ungovernable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭരിക്കുവാനസാധ്യമായ"
+        },
+        {
+            "# id": 198843,
+            "english_word": "Ungovernable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഒതുങ്ങാത്ത"
+        },
+        {
+            "# id": 198844,
+            "english_word": "Ungovernable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അടക്കമില്ലാത്ത"
+        },
+        {
+            "# id": 170052,
+            "english_word": "Ungracious",
+            "part_of_speech": "a",
+            "malayalam_definition": "മര്യാദയില്ലാത്ത"
+        },
+        {
+            "# id": 170053,
+            "english_word": "Ungracious",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനുകമ്പയില്ലാത്ത"
+        },
+        {
+            "# id": 170054,
+            "english_word": "Ungraciously",
+            "part_of_speech": "adv",
+            "malayalam_definition": "മര്യാദാരഹിതമായി"
+        },
+        {
+            "# id": 170055,
+            "english_word": "Ungraciously",
+            "part_of_speech": "adv",
+            "malayalam_definition": "സൗശീല്യമില്ലാതെ"
+        },
+        {
+            "# id": 87059,
+            "english_word": "Ungrammatical",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യാകരണവിരുദ്ധമായ"
+        },
+        {
+            "# id": 87060,
+            "english_word": "Ungrammatical",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യാകരണപ്പിഴയുള്ള"
+        },
+        {
+            "# id": 87061,
+            "english_word": "Ungrammatically",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യാകരണവിരുദ്ധമായി"
+        },
+        {
+            "# id": 87062,
+            "english_word": "Ungrammatically",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യാകരണപ്പിഴയുള്ള"
+        },
+        {
+            "# id": 87063,
+            "english_word": "Ungrammatically",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യാകരണപ്പിഴയുള്ളതായി"
+        },
+        {
+            "# id": 219085,
+            "english_word": "Ungraspable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉൾകൊള്ളാൻ വിഷമമായത്"
+        },
+        {
+            "# id": 219084,
+            "english_word": "Ungraspable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഗ്രഹിക്കാൻ കഴിയാത്തത്"
+        },
+        {
+            "# id": 87064,
+            "english_word": "Ungrateful",
+            "part_of_speech": "a",
+            "malayalam_definition": "നന്ദികെട്ട"
+        },
+        {
+            "# id": 87065,
+            "english_word": "Ungrateful",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉപകാരസ്‌മരണയില്ലാത്ത"
+        },
+        {
+            "# id": 170061,
+            "english_word": "Ungrateful",
+            "part_of_speech": "a",
+            "malayalam_definition": "കൃതഘ്‌നമായ"
+        },
+        {
+            "# id": 216598,
+            "english_word": "Ungrateful",
+            "part_of_speech": "a",
+            "malayalam_definition": "കൃതഘ്നമായ"
+        },
+        {
+            "# id": 216599,
+            "english_word": "Ungrateful",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉപകാരസ്മരണയില്ലാത്ത"
+        },
+        {
+            "# id": 109863,
+            "english_word": "Ungrateful fellow",
+            "part_of_speech": "n",
+            "malayalam_definition": "നന്ദികെട്ടവന്‍"
+        },
+        {
+            "# id": 87070,
+            "english_word": "Unguarded",
+            "part_of_speech": "a",
+            "malayalam_definition": "അരക്ഷിതമായ"
+        },
+        {
+            "# id": 87071,
+            "english_word": "Unguarded",
+            "part_of_speech": "a",
+            "malayalam_definition": "അശ്രദ്ധമായ"
+        },
+        {
+            "# id": 123666,
+            "english_word": "Unguarded",
+            "part_of_speech": "n",
+            "malayalam_definition": "അരക്ഷിത"
+        },
+        {
+            "# id": 123667,
+            "english_word": "Unguarded",
+            "part_of_speech": "a",
+            "malayalam_definition": "ജാഗ്രത പാലിക്കാത്ത"
+        },
+        {
+            "# id": 123668,
+            "english_word": "Unguarded",
+            "part_of_speech": "a",
+            "malayalam_definition": "അടക്കിവയ്ക്കാത്ത"
+        },
+        {
+            "# id": 123669,
+            "english_word": "Unguarded",
+            "part_of_speech": "a",
+            "malayalam_definition": "കരുതലില്ലാത്ത"
+        },
+        {
+            "# id": 113512,
+            "english_word": "Unguent",
+            "part_of_speech": "n",
+            "malayalam_definition": "വഴുവഴുപ്പ്‌"
+        },
+        {
+            "# id": 220961,
+            "english_word": "Unguis",
+            "part_of_speech": "n",
+            "malayalam_definition": "നഖം, ദംഷ്ട്രം, കുളംബ്"
+        },
+        {
+            "# id": 174481,
+            "english_word": "Ungulate",
+            "part_of_speech": "a",
+            "malayalam_definition": "കുളംബുകളുള്ള"
+        },
+        {
+            "# id": 120853,
+            "english_word": "Unhamered",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രതിബന്ധമില്ലാത്ത"
+        },
+        {
+            "# id": 119433,
+            "english_word": "Unhampered",
+            "part_of_speech": "a",
+            "malayalam_definition": "തടസ്സപ്പെടുത്താത്ത"
+        },
+        {
+            "# id": 87079,
+            "english_word": "Unhappily",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍ഭാഗ്യകരമായി"
+        },
+        {
+            "# id": 87080,
+            "english_word": "Unhappily",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആനന്ദരഹിതമായി"
+        },
+        {
+            "# id": 87081,
+            "english_word": "Unhappily",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭാഗ്യഹീനമായി"
+        },
+        {
+            "# id": 87082,
+            "english_word": "Unhappiness",
+            "part_of_speech": "n",
+            "malayalam_definition": "നിര്‍ഭാഗ്യകരം"
+        },
+        {
+            "# id": 87083,
+            "english_word": "Unhappiness",
+            "part_of_speech": "n",
+            "malayalam_definition": "അസന്തുഷ്‌ടത"
+        },
+        {
+            "# id": 87084,
+            "english_word": "Unhappiness",
+            "part_of_speech": "-",
+            "malayalam_definition": "ആനന്ദരഹിതം"
+        },
+        {
+            "# id": 87072,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍ഭാഗ്യകരമായ"
+        },
+        {
+            "# id": 87073,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസന്തുതഷ്‌ടനായ"
+        },
+        {
+            "# id": 87074,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭാഗ്യഹീനമായ"
+        },
+        {
+            "# id": 87075,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദുഃഖകരമായ"
+        },
+        {
+            "# id": 87076,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആനന്ദരഹിതമായ"
+        },
+        {
+            "# id": 87077,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "മന്ദഭാഗ്യനായ"
+        },
+        {
+            "# id": 87078,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസുഖപ്രദമായ"
+        },
+        {
+            "# id": 170062,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "സന്തുഷ്‌ടിയില്ലാത്ത"
+        },
+        {
+            "# id": 170063,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍ഭാഗ്യമായ"
+        },
+        {
+            "# id": 170064,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസുഖകരമായ"
+        },
+        {
+            "# id": 202329,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസന്തുഷ്ടമായ"
+        },
+        {
+            "# id": 216600,
+            "english_word": "Unhappy",
+            "part_of_speech": "a",
+            "malayalam_definition": "സന്തുഷ്ടിയില്ലാത്ത"
+        },
+        {
+            "# id": 120894,
+            "english_word": "Unharmed",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപായരഹിതമായ"
+        },
+        {
+            "# id": 87085,
+            "english_word": "Unhealthy",
+            "part_of_speech": "a",
+            "malayalam_definition": "സുഖക്കേടുള്ള"
+        },
+        {
+            "# id": 87086,
+            "english_word": "Unhealthy",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനാരോഗ്യകരമായ"
+        },
+        {
+            "# id": 87087,
+            "english_word": "Unhealthy",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആരോഗ്യമില്ലാത്ത"
+        },
+        {
+            "# id": 87088,
+            "english_word": "Unhealthy",
+            "part_of_speech": "a",
+            "malayalam_definition": "അഹിതമായ"
+        },
+        {
+            "# id": 87089,
+            "english_word": "Unhealthy",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപകടകരമായ"
+        },
+        {
+            "# id": 170065,
+            "english_word": "Unhealthy",
+            "part_of_speech": "a",
+            "malayalam_definition": "സൗഖ്യക്കുറവായ"
+        },
+        {
+            "# id": 170066,
+            "english_word": "Unhealthy",
+            "part_of_speech": "a",
+            "malayalam_definition": "രോഗം പിടിച്ച"
+        },
+        {
+            "# id": 216601,
+            "english_word": "Unhealthy",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആരോഗ്യമില്ലാത്ത"
+        },
+        {
+            "# id": 216602,
+            "english_word": "Unhealthy",
+            "part_of_speech": "a",
+            "malayalam_definition": "രോഗം പിടിച്ച"
+        },
+        {
+            "# id": 87090,
+            "english_word": "Unheard",
+            "part_of_speech": "a",
+            "malayalam_definition": "കേള്‍പ്പെടാത്ത"
+        },
+        {
+            "# id": 87091,
+            "english_word": "Unheard",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശ്രുതിഗോചരമല്ലാത്ത"
+        },
+        {
+            "# id": 170067,
+            "english_word": "Unheard",
+            "part_of_speech": "a",
+            "malayalam_definition": "കേള്‍ക്കാത്ത"
+        },
+        {
+            "# id": 170068,
+            "english_word": "Unheard",
+            "part_of_speech": "a",
+            "malayalam_definition": "പറയപ്പെടാത്ത"
+        },
+        {
+            "# id": 170069,
+            "english_word": "Unheard",
+            "part_of_speech": "a",
+            "malayalam_definition": "അശ്രുതമായ"
+        },
+        {
+            "# id": 123670,
+            "english_word": "Unheard-of",
+            "part_of_speech": "a",
+            "malayalam_definition": "കേള്‍ക്കപ്പെടാത്ത"
+        },
+        {
+            "# id": 123671,
+            "english_word": "Unheard-of",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശ്രുതിഗോചരമല്ലാത്ത"
+        },
+        {
+            "# id": 170070,
+            "english_word": "Unheeded",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഗൗനിക്കാത്ത"
+        },
+        {
+            "# id": 170071,
+            "english_word": "Unheeded",
+            "part_of_speech": "a",
+            "malayalam_definition": "കൂട്ടാക്കാത്ത"
+        },
+        {
+            "# id": 170072,
+            "english_word": "Unheeded",
+            "part_of_speech": "a",
+            "malayalam_definition": "വകവയ്‌ക്കാത്ത"
+        },
+        {
+            "# id": 216603,
+            "english_word": "Unheeded",
+            "part_of_speech": "a",
+            "malayalam_definition": "വകവെയ്ക്കാത്ത"
+        },
+        {
+            "# id": 170073,
+            "english_word": "Unhelpful",
+            "part_of_speech": "a",
+            "malayalam_definition": "സഹായം നല്‍കാത്ത"
+        },
+        {
+            "# id": 170074,
+            "english_word": "Unhelpful",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉപകാരപ്രദമല്ലാത്ത"
+        },
+        {
+            "# id": 170075,
+            "english_word": "Unhelpfully",
+            "part_of_speech": "adv",
+            "malayalam_definition": "സഹായമില്ലാതെ"
+        },
+        {
+            "# id": 170076,
+            "english_word": "Unhelpfully",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ഉപകാരമില്ലാതെ"
+        },
+        {
+            "# id": 170077,
+            "english_word": "Unheralded",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുന്‍കൂട്ടി അറിയിക്കാത്ത"
+        },
+        {
+            "# id": 170078,
+            "english_word": "Unheralded",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിളംബരക്കാരില്ലാത്ത"
+        },
+        {
+            "# id": 110213,
+            "english_word": "Unhesitatingly",
+            "part_of_speech": "-",
+            "malayalam_definition": "സംശയംകൂടാതെ"
+        },
+        {
+            "# id": 110214,
+            "english_word": "Unhesitatingly",
+            "part_of_speech": "n",
+            "malayalam_definition": "നിസ്സങ്കോചം"
+        },
+        {
+            "# id": 170086,
+            "english_word": "Unhesitatingly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "സങ്കോചമില്ലാതെ"
+        },
+        {
+            "# id": 170087,
+            "english_word": "Unhesitatingly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "സന്ദേഹമില്ലാതെ"
+        },
+        {
+            "# id": 216604,
+            "english_word": "Unhesitatingly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "സങ്കോചമില്ലാതെ"
+        },
+        {
+            "# id": 170083,
+            "english_word": "Unhestitating",
+            "part_of_speech": "a",
+            "malayalam_definition": "സങ്കോചമില്ലാത്ത"
+        },
+        {
+            "# id": 170084,
+            "english_word": "Unhestitating",
+            "part_of_speech": "a",
+            "malayalam_definition": "സന്ദേഹമില്ലാത്ത"
+        },
+        {
+            "# id": 170085,
+            "english_word": "Unhestitating",
+            "part_of_speech": "a",
+            "malayalam_definition": "മടിയില്ലാത്ത"
+        },
+        {
+            "# id": 216605,
+            "english_word": "Unhestitating",
+            "part_of_speech": "a",
+            "malayalam_definition": "സങ്കോചമില്ലാത്ത"
+        },
+        {
+            "# id": 100652,
+            "english_word": "Unhidden",
+            "part_of_speech": "a",
+            "malayalam_definition": "മറയ്‌ക്കാത്ത"
+        },
+        {
+            "# id": 120854,
+            "english_word": "Unhindered",
+            "part_of_speech": "n",
+            "malayalam_definition": "യഥേഷ്‌ടം"
+        },
+        {
+            "# id": 120855,
+            "english_word": "Unhindered",
+            "part_of_speech": "conj",
+            "malayalam_definition": "നിര്‍ബാധം"
+        },
+        {
+            "# id": 170088,
+            "english_word": "Unhindered",
+            "part_of_speech": "a",
+            "malayalam_definition": "അബാധിതമായ"
+        },
+        {
+            "# id": 170089,
+            "english_word": "Unhindered",
+            "part_of_speech": "a",
+            "malayalam_definition": "അഭംഗിതമായ"
+        },
+        {
+            "# id": 170090,
+            "english_word": "Unhindered",
+            "part_of_speech": "a",
+            "malayalam_definition": "തടയപ്പെടാത്ത"
+        },
+        {
+            "# id": 170149,
+            "english_word": "Unhinge",
+            "part_of_speech": "v",
+            "malayalam_definition": "ബുദ്ധിസ്ഥിരതയില്ലാതാകുക"
+        },
+        {
+            "# id": 170150,
+            "english_word": "Unhinge",
+            "part_of_speech": "v",
+            "malayalam_definition": "ബുദ്ധിഭ്രമം സംഭവിക്കുക"
+        },
+        {
+            "# id": 170151,
+            "english_word": "Unhinge",
+            "part_of_speech": "v",
+            "malayalam_definition": "വിജാഗിരിമാറ്റുക"
+        },
+        {
+            "# id": 170152,
+            "english_word": "Unhinge",
+            "part_of_speech": "v",
+            "malayalam_definition": "വിസന്ധീകരിക്കുക"
+        },
+        {
+            "# id": 87096,
+            "english_word": "Unholy",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപവിത്രമായ"
+        },
+        {
+            "# id": 87097,
+            "english_word": "Unholy",
+            "part_of_speech": "a",
+            "malayalam_definition": "ധര്‍മ്മവിമുഖനായ"
+        },
+        {
+            "# id": 170154,
+            "english_word": "Unholy",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിശുദ്ധമല്ലാത്ത"
+        },
+        {
+            "# id": 116707,
+            "english_word": "Unholy alliance",
+            "part_of_speech": "n",
+            "malayalam_definition": "അവിശുദ്ധ കൂട്ടുകെട്ട്‌"
+        },
+        {
+            "# id": 170091,
+            "english_word": "Unhook",
+            "part_of_speech": "v",
+            "malayalam_definition": "കൊളുത്തുനീക്കുക"
+        },
+        {
+            "# id": 170092,
+            "english_word": "Unhook",
+            "part_of_speech": "v",
+            "malayalam_definition": "കൊളുത്തില്‍ നിന്നുവിടുവിക്കുക"
+        },
+        {
+            "# id": 216606,
+            "english_word": "Unhook",
+            "part_of_speech": "v",
+            "malayalam_definition": "കൊളുത്തുനീക്കുക"
+        },
+        {
+            "# id": 216607,
+            "english_word": "Unhook",
+            "part_of_speech": "v",
+            "malayalam_definition": "കൊളുത്തില്‍ നിന്നുവിടുവിക്കുക"
+        },
+        {
+            "# id": 170093,
+            "english_word": "Unhoped-for",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രതീക്ഷിക്കപ്പെടാത്ത"
+        },
+        {
+            "# id": 170094,
+            "english_word": "Unhoped-for",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രത്യാശിക്കപ്പെടാത്ത"
+        },
+        {
+            "# id": 87098,
+            "english_word": "Unhuman",
+            "part_of_speech": "a",
+            "malayalam_definition": "അതിമാനുഷമായ"
+        },
+        {
+            "# id": 87099,
+            "english_word": "Unhuman",
+            "part_of_speech": "a",
+            "malayalam_definition": "മനുഷ്യേതരമായ"
+        },
+        {
+            "# id": 118712,
+            "english_word": "Unhurried",
+            "part_of_speech": "adv",
+            "malayalam_definition": "അവധാനതയോടെ"
+        },
+        {
+            "# id": 118713,
+            "english_word": "Unhurried",
+            "part_of_speech": "n",
+            "malayalam_definition": "സാവധാനം"
+        },
+        {
+            "# id": 118714,
+            "english_word": "Unhurried",
+            "part_of_speech": "a",
+            "malayalam_definition": "ധൃതിയില്ലാത്ത"
+        },
+        {
+            "# id": 118715,
+            "english_word": "Unhurried",
+            "part_of_speech": "a",
+            "malayalam_definition": "ക്ഷമയുള്ള"
+        },
+        {
+            "# id": 118716,
+            "english_word": "Unhurried",
+            "part_of_speech": "a",
+            "malayalam_definition": "സാവകാശമായി"
+        },
+        {
+            "# id": 170095,
+            "english_word": "Unhurried",
+            "part_of_speech": "a",
+            "malayalam_definition": "ധൃതിപിടിച്ചുചെയ്യാത്ത"
+        },
+        {
+            "# id": 170096,
+            "english_word": "Unhurried",
+            "part_of_speech": "a",
+            "malayalam_definition": "ധൃതിയില്ലാതെചെയ്‌ത"
+        },
+        {
+            "# id": 216608,
+            "english_word": "Unhurried",
+            "part_of_speech": "a",
+            "malayalam_definition": "ധൃതിയില്ലാതെചെയ്ത"
+        },
+        {
+            "# id": 87100,
+            "english_word": "Unhurt",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപായം വരാത്ത"
+        },
+        {
+            "# id": 87101,
+            "english_word": "Unhurt",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുറിവ്‌ പറ്റിയിട്ടില്ലാത്ത"
+        },
+        {
+            "# id": 87102,
+            "english_word": "Unhurt",
+            "part_of_speech": "a",
+            "malayalam_definition": "അക്ഷതനായ"
+        },
+        {
+            "# id": 170097,
+            "english_word": "Unhurt",
+            "part_of_speech": "a",
+            "malayalam_definition": "അക്ഷതമായി"
+        },
+        {
+            "# id": 170098,
+            "english_word": "Unhurt",
+            "part_of_speech": "a",
+            "malayalam_definition": "പരിക്കുപറ്റാതെ"
+        },
+        {
+            "# id": 174369,
+            "english_word": "Unhusked",
+            "part_of_speech": "-",
+            "malayalam_definition": "പോളിക്കാത്തത്"
+        },
+        {
+            "# id": 170099,
+            "english_word": "Unhygienic",
+            "part_of_speech": "a",
+            "malayalam_definition": "വൃത്തിയില്ലാത്ത"
+        },
+        {
+            "# id": 170100,
+            "english_word": "Unhygienic",
+            "part_of_speech": "a",
+            "malayalam_definition": "വെടിപ്പില്ലാത്ത"
+        },
+        {
+            "# id": 175294,
+            "english_word": "Unibrow",
+            "part_of_speech": "n",
+            "malayalam_definition": "കൂട്ടുപുരികം"
+        },
+        {
+            "# id": 170155,
+            "english_word": "Unicameral",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകസഭമാത്രമുള്ള"
+        },
+        {
+            "# id": 87103,
+            "english_word": "Unicellular",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകകോശകമായ"
+        },
+        {
+            "# id": 87104,
+            "english_word": "Unicellular",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഒറ്റയായ"
+        },
+        {
+            "# id": 202661,
+            "english_word": "Unicode",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഒരു കമ്പ്യൂട്ടർ പദവിന്യാസ രീതി"
+        },
+        {
+            "# id": 170156,
+            "english_word": "Unicorn",
+            "part_of_speech": "n",
+            "malayalam_definition": "കുതിരയുടെ ശരീരമുള്ള ഒറ്റകൊമ്പുള്ള മൃഗം"
+        },
+        {
+            "# id": 170157,
+            "english_word": "Unicorn",
+            "part_of_speech": "n",
+            "malayalam_definition": "നെറ്റിയില്‍ ഒറ്റക്കൊമ്പുള്ള ഒരു സാങ്കല്‌പികമൃഗം"
+        },
+        {
+            "# id": 198845,
+            "english_word": "Unicorn",
+            "part_of_speech": "n",
+            "malayalam_definition": "പുരാണങ്ങളില്‍ പറഞ്ഞിട്ടുള്ള കുതിരയുടെ ദേഹവും ഒറ്റക്കൊന്പുമുള്ള ഒരു മൃഗം"
+        },
+        {
+            "# id": 216609,
+            "english_word": "Unicorn",
+            "part_of_speech": "n",
+            "malayalam_definition": "കുതിരയുടെ ശരീരമുള്ള ഒറ്റകൊന്പുള്ള മൃഗം"
+        },
+        {
+            "# id": 216610,
+            "english_word": "Unicorn",
+            "part_of_speech": "n",
+            "malayalam_definition": "നെറ്റിയില്‍ ഒറ്റക്കൊന്പുള്ള ഒരു സാങ്കല്പികമൃഗം"
+        },
+        {
+            "# id": 170101,
+            "english_word": "Unidentifiable",
+            "part_of_speech": "a",
+            "malayalam_definition": "വേര്‍തിരിച്ചറിയാനാവാത്ത"
+        },
+        {
+            "# id": 170102,
+            "english_word": "Unidentifiable",
+            "part_of_speech": "a",
+            "malayalam_definition": "തിരിച്ചറിയപ്പെടാത്ത"
+        },
+        {
+            "# id": 87105,
+            "english_word": "Unidentified",
+            "part_of_speech": "a",
+            "malayalam_definition": "വേര്‍തിരിച്ചിട്ടില്ലാത്ത"
+        },
+        {
+            "# id": 87106,
+            "english_word": "Unidentified",
+            "part_of_speech": "a",
+            "malayalam_definition": "തിരിച്ചറിഞ്ഞിട്ടില്ലാത്ത"
+        },
+        {
+            "# id": 170103,
+            "english_word": "Unidentified",
+            "part_of_speech": "a",
+            "malayalam_definition": "തിരിച്ചറിയാത്ത"
+        },
+        {
+            "# id": 170104,
+            "english_word": "Unidentified",
+            "part_of_speech": "a",
+            "malayalam_definition": "കണ്ടെത്താനാവാത്ത"
+        },
+        {
+            "# id": 87107,
+            "english_word": "Unidiomatic",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭാഷാസമ്പ്രദായവിരുദ്ധമായ"
+        },
+        {
+            "# id": 87108,
+            "english_word": "Unidiomatic",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശൈലീഭംഗമായ"
+        },
+        {
+            "# id": 87126,
+            "english_word": "Unification",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഇണക്കിച്ചേര്‍ക്കല്‍"
+        },
+        {
+            "# id": 87127,
+            "english_word": "Unification",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഏകീകരിക്കല്‍"
+        },
+        {
+            "# id": 87128,
+            "english_word": "Unification",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഏകീകരിക്കുക"
+        },
+        {
+            "# id": 170158,
+            "english_word": "Unification",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകീകരണം"
+        },
+        {
+            "# id": 87129,
+            "english_word": "Unified",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകീകൃതമായ"
+        },
+        {
+            "# id": 87136,
+            "english_word": "Unified field",
+            "part_of_speech": "n",
+            "malayalam_definition": "എല്ലാ പ്രകൃതിവസ്‌തുക്കളുടെയും പ്രവര്‍ത്തനങ്ങളെ ഒരേ സിദ്ധാന്തത്തിന്‍കീഴില്‍  വിപരിക്കുന്നതിന്‍ ഭൗതികശാസ്‌ത്രജ്ഞന്‍ സ്വീകരിക്കുന്ന പാര്യന്തികാധികാരം"
+        },
+        {
+            "# id": 87137,
+            "english_word": "Unified scale",
+            "part_of_speech": "-",
+            "malayalam_definition": "കാര്‍ബണ്‍ 12 സമസ്ഥാനീയത്തിന്റെ പിണ്‌ഡം 12 ആയെടുത്ത്‌ അതിന്റെ അടിസ്ഥാനത്തില്‍ എല്ലാ പരമാണുക്കളുടെയും തന്‍മാത്രകളുടെയും ഭാരം കണക്കാക്കുന്ന തോത്‌"
+        },
+        {
+            "# id": 87138,
+            "english_word": "Unifier",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകീകൃതന്‍"
+        },
+        {
+            "# id": 87112,
+            "english_word": "Uniform",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകതാനമായ"
+        },
+        {
+            "# id": 87113,
+            "english_word": "Uniform",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകരൂപമായ"
+        },
+        {
+            "# id": 87114,
+            "english_word": "Uniform",
+            "part_of_speech": "n",
+            "malayalam_definition": "പട്ടാളവേഷം"
+        },
+        {
+            "# id": 87115,
+            "english_word": "Uniform",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകരീതിയായ"
+        },
+        {
+            "# id": 87116,
+            "english_word": "Uniform",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐകരൂപ്യമുള്ള വേഷം"
+        },
+        {
+            "# id": 87117,
+            "english_word": "Uniform",
+            "part_of_speech": "n",
+            "malayalam_definition": "യുനിഫോറം"
+        },
+        {
+            "# id": 170159,
+            "english_word": "Uniform",
+            "part_of_speech": "a",
+            "malayalam_definition": "സമാനമായ"
+        },
+        {
+            "# id": 170160,
+            "english_word": "Uniform",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐക്യരൂപ്യമുള്ള വേഷം"
+        },
+        {
+            "# id": 198846,
+            "english_word": "Uniform",
+            "part_of_speech": "n",
+            "malayalam_definition": "സാദൃശമുള്ള"
+        },
+        {
+            "# id": 198847,
+            "english_word": "Uniform",
+            "part_of_speech": "a",
+            "malayalam_definition": "യൂണിഫോറം"
+        },
+        {
+            "# id": 87118,
+            "english_word": "Uniformity",
+            "part_of_speech": "n",
+            "malayalam_definition": "തുല്യാകൃതി"
+        },
+        {
+            "# id": 87119,
+            "english_word": "Uniformity",
+            "part_of_speech": "n",
+            "malayalam_definition": "സര്‍വ്വസാമ്യം"
+        },
+        {
+            "# id": 170161,
+            "english_word": "Uniformity",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐക്യരൂപ്യം"
+        },
+        {
+            "# id": 170162,
+            "english_word": "Uniformity",
+            "part_of_speech": "n",
+            "malayalam_definition": "സാരൂപ്യം"
+        },
+        {
+            "# id": 170163,
+            "english_word": "Uniformity",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകരൂപത"
+        },
+        {
+            "# id": 198848,
+            "english_word": "Uniformity",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐകരൂപ്യം"
+        },
+        {
+            "# id": 87120,
+            "english_word": "Uniformly",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകരീതിയായി"
+        },
+        {
+            "# id": 87121,
+            "english_word": "Uniformly",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഒരേപ്രകാരം"
+        },
+        {
+            "# id": 87122,
+            "english_word": "Uniformly",
+            "part_of_speech": "-",
+            "malayalam_definition": "ഏകരൂപേണ"
+        },
+        {
+            "# id": 170164,
+            "english_word": "Uniformly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ഒന്നുപോലെ"
+        },
+        {
+            "# id": 198849,
+            "english_word": "Uniformly",
+            "part_of_speech": "-",
+            "malayalam_definition": "മാറ്റമില്ലാത്ത"
+        },
+        {
+            "# id": 198850,
+            "english_word": "Uniformly",
+            "part_of_speech": "-",
+            "malayalam_definition": "നിയതമായി"
+        },
+        {
+            "# id": 198851,
+            "english_word": "Uniformly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ഏകരൂപമായി"
+        },
+        {
+            "# id": 216611,
+            "english_word": "Uniformly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ഒന്നുപോലെ"
+        },
+        {
+            "# id": 216612,
+            "english_word": "Uniformly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ഏകരീതിയായി"
+        },
+        {
+            "# id": 87123,
+            "english_word": "Unify",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഇണക്കിച്ചേര്‍ക്കുക"
+        },
+        {
+            "# id": 87124,
+            "english_word": "Unify",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഏകീകരിക്കുക"
+        },
+        {
+            "# id": 87125,
+            "english_word": "Unify",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഒന്നാക്കുക"
+        },
+        {
+            "# id": 170165,
+            "english_word": "Unify",
+            "part_of_speech": "v",
+            "malayalam_definition": "യോജിപ്പിക്കുക"
+        },
+        {
+            "# id": 198852,
+            "english_word": "Unify",
+            "part_of_speech": "-",
+            "malayalam_definition": "ഒന്നിപ്പിക്കുക"
+        },
+        {
+            "# id": 87139,
+            "english_word": "Unilateral",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകപാര്‍ശ്വമായ"
+        },
+        {
+            "# id": 170107,
+            "english_word": "Unilateral",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകപക്ഷമായ"
+        },
+        {
+            "# id": 170108,
+            "english_word": "Unilaterally",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ഏകപക്ഷീയമായി"
+        },
+        {
+            "# id": 170109,
+            "english_word": "Unimaginable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭാവനാതീതമായ"
+        },
+        {
+            "# id": 170110,
+            "english_word": "Unimaginable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഊഹിക്കാന്‍ പറ്റാത്ത"
+        },
+        {
+            "# id": 170111,
+            "english_word": "Unimaginative",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭാവനാശൂന്യമായ"
+        },
+        {
+            "# id": 170112,
+            "english_word": "Unimaginative",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചിന്താരഹിതമായ"
+        },
+        {
+            "# id": 120895,
+            "english_word": "Unimpaired",
+            "part_of_speech": "a",
+            "malayalam_definition": "ബലമുള്ള"
+        },
+        {
+            "# id": 120896,
+            "english_word": "Unimpaired",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപായരഹിതമായ"
+        },
+        {
+            "# id": 170113,
+            "english_word": "Unimpaired",
+            "part_of_speech": "a",
+            "malayalam_definition": "കേടുപറ്റാത്ത"
+        },
+        {
+            "# id": 170114,
+            "english_word": "Unimpaired",
+            "part_of_speech": "a",
+            "malayalam_definition": "അക്ഷതമായ"
+        },
+        {
+            "# id": 170115,
+            "english_word": "Unimpaired",
+            "part_of_speech": "a",
+            "malayalam_definition": "ക്ഷീണം തട്ടാത്ത"
+        },
+        {
+            "# id": 119763,
+            "english_word": "Unimpeachable",
+            "part_of_speech": "a",
+            "malayalam_definition": "കുറ്റവിമുക്തമാക്കപ്പെട്ട"
+        },
+        {
+            "# id": 119764,
+            "english_word": "Unimpeachable",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിശ്വാസയോഗ്യമായ"
+        },
+        {
+            "# id": 170116,
+            "english_word": "Unimpeachable",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിരാക്ഷേപമായ"
+        },
+        {
+            "# id": 170117,
+            "english_word": "Unimpeachable",
+            "part_of_speech": "a",
+            "malayalam_definition": "കുറ്റംകണ്ടെത്താനാവാത്ത"
+        },
+        {
+            "# id": 170118,
+            "english_word": "Unimpeachably",
+            "part_of_speech": "adv",
+            "malayalam_definition": "നിരാക്ഷേപമായി"
+        },
+        {
+            "# id": 119430,
+            "english_word": "Unimpeded",
+            "part_of_speech": "a",
+            "malayalam_definition": "തടസ്സപ്പെടുത്താത്ത"
+        },
+        {
+            "# id": 170119,
+            "english_word": "Unimpeded",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍വിഘ്‌നമായ"
+        },
+        {
+            "# id": 170120,
+            "english_word": "Unimpeded",
+            "part_of_speech": "a",
+            "malayalam_definition": "അവിരതമായ"
+        },
+        {
+            "# id": 170121,
+            "english_word": "Unimpeded",
+            "part_of_speech": "a",
+            "malayalam_definition": "തടസ്സമില്ലാത്ത"
+        },
+        {
+            "# id": 216613,
+            "english_word": "Unimpeded",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍വിഘ്നമായ"
+        },
+        {
+            "# id": 108344,
+            "english_word": "Unimportance",
+            "part_of_speech": "n",
+            "malayalam_definition": "അപ്രാധാന്യം"
+        },
+        {
+            "# id": 100734,
+            "english_word": "Unimportant",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രാധാന്യമില്ലാത്ത"
+        },
+        {
+            "# id": 100735,
+            "english_word": "Unimportant",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപ്രധാനമായ"
+        },
+        {
+            "# id": 100736,
+            "english_word": "Unimportant",
+            "part_of_speech": "n",
+            "malayalam_definition": "അപ്രധാനം"
+        },
+        {
+            "# id": 170122,
+            "english_word": "Unimportant",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഗണനീയമല്ലാത്ത"
+        },
+        {
+            "# id": 170123,
+            "english_word": "Unimportant",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിസ്സാരമായ"
+        },
+        {
+            "# id": 170124,
+            "english_word": "Unimpressed",
+            "part_of_speech": "a",
+            "malayalam_definition": "വശീകരിക്കാത്ത"
+        },
+        {
+            "# id": 170125,
+            "english_word": "Unimpressed",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആദരവുപിടിച്ചുപറ്റാത്ത"
+        },
+        {
+            "# id": 170128,
+            "english_word": "Unimpressive",
+            "part_of_speech": "a",
+            "malayalam_definition": "പതിയാവുന്നതല്ലാത്ത"
+        },
+        {
+            "# id": 170129,
+            "english_word": "Unimpressive",
+            "part_of_speech": "a",
+            "malayalam_definition": "വശീകരിക്കാനസാധ്യമായ"
+        },
+        {
+            "# id": 170130,
+            "english_word": "Uninformative",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിവരമറിയിക്കാത്ത"
+        },
+        {
+            "# id": 170131,
+            "english_word": "Uninformative",
+            "part_of_speech": "a",
+            "malayalam_definition": "അറിവുനല്‍കാത്ത"
+        },
+        {
+            "# id": 170132,
+            "english_word": "Uninformative",
+            "part_of_speech": "a",
+            "malayalam_definition": "തുറന്നുപറയാത്ത"
+        },
+        {
+            "# id": 170133,
+            "english_word": "Uninformed",
+            "part_of_speech": "a",
+            "malayalam_definition": "അറിവില്ലാത്ത"
+        },
+        {
+            "# id": 170134,
+            "english_word": "Uninformed",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിവരമില്ലാത്ത"
+        },
+        {
+            "# id": 170135,
+            "english_word": "Uninformed",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനഭിജ്ഞമായ"
+        },
+        {
+            "# id": 118778,
+            "english_word": "Uninhabited",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിജനമായ"
+        },
+        {
+            "# id": 118779,
+            "english_word": "Uninhabited",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആള്‍പാര്‍പ്പില്ലാത്ത"
+        },
+        {
+            "# id": 118780,
+            "english_word": "Uninhabited",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആള്‍പ്പാര്‍പ്പില്ലാത്ത"
+        },
+        {
+            "# id": 170136,
+            "english_word": "Uninhabited",
+            "part_of_speech": "a",
+            "malayalam_definition": "ജനവാസമില്ലാത്ത"
+        },
+        {
+            "# id": 170137,
+            "english_word": "Uninhabited",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍ജനമായ"
+        },
+        {
+            "# id": 170138,
+            "english_word": "Uninhibited",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിഘ്‌നപ്പെടാത്ത"
+        },
+        {
+            "# id": 170139,
+            "english_word": "Uninhibited",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍വിഘ്‌നമായ"
+        },
+        {
+            "# id": 216614,
+            "english_word": "Uninhibited",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിഘ്നപ്പെടാത്ത"
+        },
+        {
+            "# id": 216615,
+            "english_word": "Uninhibited",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍വിഘ്നമായ"
+        },
+        {
+            "# id": 170140,
+            "english_word": "Uninitiated",
+            "part_of_speech": "a",
+            "malayalam_definition": "പരിശീലനമില്ലാത്ത"
+        },
+        {
+            "# id": 170141,
+            "english_word": "Uninitiated",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുന്നറിവില്ലാത്ത"
+        },
+        {
+            "# id": 120897,
+            "english_word": "Uninjured",
+            "part_of_speech": "a",
+            "malayalam_definition": "ക്ഷതമേല്‍ക്കാത്ത"
+        },
+        {
+            "# id": 120898,
+            "english_word": "Uninjured",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുറിപ്പെടാത്ത"
+        },
+        {
+            "# id": 170166,
+            "english_word": "Uninspired",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചൈതന്യരഹിതമായ"
+        },
+        {
+            "# id": 170167,
+            "english_word": "Uninspired",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിരുത്സാഹമായ"
+        },
+        {
+            "# id": 170168,
+            "english_word": "Uninspired",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപ്രചോദിതമായ"
+        },
+        {
+            "# id": 216616,
+            "english_word": "Uninspired",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിരുത്സാഹമായ"
+        },
+        {
+            "# id": 216617,
+            "english_word": "Uninspired",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപ്രചോദിതമായ"
+        },
+        {
+            "# id": 86265,
+            "english_word": "Uninspiring",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉല്‍ക്കര്‍ഷേച്ഛയില്ലാത്ത"
+        },
+        {
+            "# id": 101954,
+            "english_word": "Unintelligent",
+            "part_of_speech": "a",
+            "malayalam_definition": "ബുദ്ധിഹീനമായ"
+        },
+        {
+            "# id": 119841,
+            "english_word": "Unintelligible",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസ്‌പഷ്‌ടമായ"
+        },
+        {
+            "# id": 119842,
+            "english_word": "Unintelligible",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഗഹനമായ"
+        },
+        {
+            "# id": 119844,
+            "english_word": "Unintelligible",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദുര്‍ഗ്രഹമായ"
+        },
+        {
+            "# id": 117165,
+            "english_word": "Unintentional",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിവക്ഷിതമല്ലാത്ത"
+        },
+        {
+            "# id": 117166,
+            "english_word": "Unintentional",
+            "part_of_speech": "a",
+            "malayalam_definition": "കരുതലില്ലാത്ത"
+        },
+        {
+            "# id": 117167,
+            "english_word": "Unintentional",
+            "part_of_speech": "a",
+            "malayalam_definition": "മനഃപൂര്‍വ്വമല്ലാത്ത"
+        },
+        {
+            "# id": 117168,
+            "english_word": "Unintentional",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപ്രതീക്ഷിതമായ"
+        },
+        {
+            "# id": 117169,
+            "english_word": "Unintentional",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഇച്ഛാപൂര്‍വ്വമല്ലാത്ത"
+        },
+        {
+            "# id": 201665,
+            "english_word": "Unintentionally",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ഉദ്ദേശിക്കാതെ"
+        },
+        {
+            "# id": 170171,
+            "english_word": "Uninterested",
+            "part_of_speech": "a",
+            "malayalam_definition": "രസകരമല്ലാത്ത"
+        },
+        {
+            "# id": 170172,
+            "english_word": "Uninterested",
+            "part_of_speech": "a",
+            "malayalam_definition": "രുചിയില്ലാത്ത"
+        },
+        {
+            "# id": 170173,
+            "english_word": "Uninterested",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉത്സാഹമില്ലാത്ത"
+        },
+        {
+            "# id": 170174,
+            "english_word": "Uninterested",
+            "part_of_speech": "a",
+            "malayalam_definition": "താല്‍പര്യമില്ലാത്ത"
+        },
+        {
+            "# id": 118973,
+            "english_word": "Uninteresting",
+            "part_of_speech": "a",
+            "malayalam_definition": "അരസികമായ"
+        },
+        {
+            "# id": 118974,
+            "english_word": "Uninteresting",
+            "part_of_speech": "a",
+            "malayalam_definition": "മടുപ്പിക്കുന്ന"
+        },
+        {
+            "# id": 118975,
+            "english_word": "Uninteresting",
+            "part_of_speech": "n",
+            "malayalam_definition": "അപ്രസക്തി"
+        },
+        {
+            "# id": 118976,
+            "english_word": "Uninteresting",
+            "part_of_speech": "n",
+            "malayalam_definition": "അനിഷ്‌ടം"
+        },
+        {
+            "# id": 118977,
+            "english_word": "Uninteresting",
+            "part_of_speech": "n",
+            "malayalam_definition": "താല്‍പര്യരാഹിത്യം"
+        },
+        {
+            "# id": 118978,
+            "english_word": "Uninteresting",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിരസമായ"
+        },
+        {
+            "# id": 118979,
+            "english_word": "Uninteresting",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുഷിപ്പനായ"
+        },
+        {
+            "# id": 118980,
+            "english_word": "Uninteresting",
+            "part_of_speech": "a",
+            "malayalam_definition": "താല്‍പര്യമില്ലാത്ത"
+        },
+        {
+            "# id": 118981,
+            "english_word": "Uninteresting",
+            "part_of_speech": "a",
+            "malayalam_definition": "അരോചകമായ"
+        },
+        {
+            "# id": 103017,
+            "english_word": "Uninterrupted",
+            "part_of_speech": "a",
+            "malayalam_definition": "തടസ്സമില്ലാത്ത"
+        },
+        {
+            "# id": 103018,
+            "english_word": "Uninterrupted",
+            "part_of_speech": "a",
+            "malayalam_definition": "അവിരാമമായ"
+        },
+        {
+            "# id": 170144,
+            "english_word": "Uninterrupted",
+            "part_of_speech": "a",
+            "malayalam_definition": "അഭംഗുരമായ"
+        },
+        {
+            "# id": 170145,
+            "english_word": "Uninterrupted",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിരന്തരമായ"
+        },
+        {
+            "# id": 103398,
+            "english_word": "Uninvited",
+            "part_of_speech": "-",
+            "malayalam_definition": "ക്ഷണിക്കാതെ"
+        },
+        {
+            "# id": 112746,
+            "english_word": "Uninvitedly",
+            "part_of_speech": "-",
+            "malayalam_definition": "ക്ഷണിക്കപ്പെടാതെ"
+        },
+        {
+            "# id": 170146,
+            "english_word": "Uninviting",
+            "part_of_speech": "adv",
+            "malayalam_definition": "മനോഹരമല്ലാത്ത"
+        },
+        {
+            "# id": 170147,
+            "english_word": "Uninviting",
+            "part_of_speech": "a",
+            "malayalam_definition": "അരുചികരമായ"
+        },
+        {
+            "# id": 170148,
+            "english_word": "Uninviting",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപ്രിയമായ"
+        },
+        {
+            "# id": 216618,
+            "english_word": "Uninviting",
+            "part_of_speech": "adv",
+            "malayalam_definition": "മനോഹരമല്ലാത്ത"
+        },
+        {
+            "# id": 216619,
+            "english_word": "Uninviting",
+            "part_of_speech": "adv",
+            "malayalam_definition": "അരുചികരമായ"
+        },
+        {
+            "# id": 216620,
+            "english_word": "Uninviting",
+            "part_of_speech": "adv",
+            "malayalam_definition": "അപ്രിയമായ"
+        },
+        {
+            "# id": 118787,
+            "english_word": "Uninvolved",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉള്‍പ്പെടുത്താത്ത"
+        },
+        {
+            "# id": 87140,
+            "english_word": "Union",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകമനസ്സ്‌"
+        },
+        {
+            "# id": 87141,
+            "english_word": "Union",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐകമത്യം"
+        },
+        {
+            "# id": 87142,
+            "english_word": "Union",
+            "part_of_speech": "-",
+            "malayalam_definition": "ഒന്നിച്ചുകൂടല്‍"
+        },
+        {
+            "# id": 87143,
+            "english_word": "Union",
+            "part_of_speech": "n",
+            "malayalam_definition": "ചേര്‍ച്ച"
+        },
+        {
+            "# id": 87144,
+            "english_word": "Union",
+            "part_of_speech": "n",
+            "malayalam_definition": "തൊഴിലാളി സംഘടന"
+        },
+        {
+            "# id": 87145,
+            "english_word": "Union",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകീകരണം"
+        },
+        {
+            "# id": 87146,
+            "english_word": "Union",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐക്യം"
+        },
+        {
+            "# id": 87147,
+            "english_word": "Union",
+            "part_of_speech": "n",
+            "malayalam_definition": "സമാജം"
+        },
+        {
+            "# id": 87148,
+            "english_word": "Union",
+            "part_of_speech": "n",
+            "malayalam_definition": "സഹകരണസംഘം"
+        },
+        {
+            "# id": 170175,
+            "english_word": "Union",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐക്യമത്യം"
+        },
+        {
+            "# id": 198853,
+            "english_word": "Union",
+            "part_of_speech": "-",
+            "malayalam_definition": "യോജിപ്പ്"
+        },
+        {
+            "# id": 198854,
+            "english_word": "Union",
+            "part_of_speech": "-",
+            "malayalam_definition": "ഉടന്പടി"
+        },
+        {
+            "# id": 201537,
+            "english_word": "Union cabinet",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐക്യരാഷ്ട്രസഭ"
+        },
+        {
+            "# id": 19710,
+            "english_word": "Union jack",
+            "part_of_speech": "n",
+            "malayalam_definition": "ബ്രിട്ടീഷ്‌ പതാക"
+        },
+        {
+            "# id": 200538,
+            "english_word": "Union territory",
+            "part_of_speech": "n",
+            "malayalam_definition": "കേന്ദ്രഭരണ പ്രദേശം"
+        },
+        {
+            "# id": 87155,
+            "english_word": "Unionism",
+            "part_of_speech": "n",
+            "malayalam_definition": "സംസ്ഥാനൈക്യവാദം"
+        },
+        {
+            "# id": 87156,
+            "english_word": "Unionism",
+            "part_of_speech": "n",
+            "malayalam_definition": "സമാജവ്യവസ്ഥ"
+        },
+        {
+            "# id": 87149,
+            "english_word": "Unionist",
+            "part_of_speech": "n",
+            "malayalam_definition": "സംസ്ഥാനൈക്യവാദി"
+        },
+        {
+            "# id": 170176,
+            "english_word": "Unionist",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐക്യവാദി"
+        },
+        {
+            "# id": 170177,
+            "english_word": "Unionist",
+            "part_of_speech": "n",
+            "malayalam_definition": "സമാജവാദി"
+        },
+        {
+            "# id": 87154,
+            "english_word": "Unionistic",
+            "part_of_speech": "a",
+            "malayalam_definition": "സംസ്ഥാനൈക്യവാദിയായ"
+        },
+        {
+            "# id": 175397,
+            "english_word": "Unipolar",
+            "part_of_speech": "-",
+            "malayalam_definition": "ഏകധ്രുവലോകക്രമം"
+        },
+        {
+            "# id": 175398,
+            "english_word": "Unipolar",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഒരു ധ്രുവം മാത്രമുള്ള"
+        },
+        {
+            "# id": 201741,
+            "english_word": "Unique",
+            "part_of_speech": "a",
+            "malayalam_definition": "അതിവിശിഷ്ടമായ"
+        },
+        {
+            "# id": 87158,
+            "english_word": "Unique",
+            "part_of_speech": "a",
+            "malayalam_definition": "സമാനമില്ലാത്ത"
+        },
+        {
+            "# id": 87159,
+            "english_word": "Unique",
+            "part_of_speech": "a",
+            "malayalam_definition": "അതുല്യമായ"
+        },
+        {
+            "# id": 87160,
+            "english_word": "Unique",
+            "part_of_speech": "a",
+            "malayalam_definition": "അദ്വിതീയമായ"
+        },
+        {
+            "# id": 87161,
+            "english_word": "Unique",
+            "part_of_speech": "a",
+            "malayalam_definition": "അതിവിശിഷ്‌ടമായ"
+        },
+        {
+            "# id": 170178,
+            "english_word": "Unique",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനുപമമായ"
+        },
+        {
+            "# id": 170179,
+            "english_word": "Unique",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിശിഷ്‌ടമായ"
+        },
+        {
+            "# id": 170180,
+            "english_word": "Unique",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനന്യമായ"
+        },
+        {
+            "# id": 198855,
+            "english_word": "Unique",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസാധാരണമായ"
+        },
+        {
+            "# id": 198856,
+            "english_word": "Unique",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഒറ്റയായ"
+        },
+        {
+            "# id": 200135,
+            "english_word": "Unique identification card",
+            "part_of_speech": "n",
+            "malayalam_definition": "സവിശേഷ  തിരിച്ചറിയല്‍ കാര്‍ഡ്"
+        },
+        {
+            "# id": 87162,
+            "english_word": "Uniquely",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപൂര്‍വ്വമായി"
+        },
+        {
+            "# id": 87163,
+            "english_word": "Uniquely",
+            "part_of_speech": "a",
+            "malayalam_definition": "അതുല്യമായി"
+        },
+        {
+            "# id": 87164,
+            "english_word": "Uniqueness",
+            "part_of_speech": "n",
+            "malayalam_definition": "അതുല്യത"
+        },
+        {
+            "# id": 87165,
+            "english_word": "Uniqueness",
+            "part_of_speech": "n",
+            "malayalam_definition": "അദ്വിതീയത"
+        },
+        {
+            "# id": 87170,
+            "english_word": "Unisex",
+            "part_of_speech": "n",
+            "malayalam_definition": "സ്‌ത്രീപുരുഷന്‍മാര്‍ ഒരു പോലെ അഗീകരിച്ച ഒരേമതം വസ്‌ത്രരീതി"
+        },
+        {
+            "# id": 87171,
+            "english_word": "Unison",
+            "part_of_speech": "n",
+            "malayalam_definition": "സ്വരൈക്യം"
+        },
+        {
+            "# id": 87172,
+            "english_word": "Unison",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐകമത്യം"
+        },
+        {
+            "# id": 87173,
+            "english_word": "Unison",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകതാളം"
+        },
+        {
+            "# id": 87174,
+            "english_word": "Unison",
+            "part_of_speech": "n",
+            "malayalam_definition": "സ്വരസംവാദം"
+        },
+        {
+            "# id": 87175,
+            "english_word": "Unison",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഒരുമ"
+        },
+        {
+            "# id": 170181,
+            "english_word": "Unison",
+            "part_of_speech": "n",
+            "malayalam_definition": "രാഗൈക്യം"
+        },
+        {
+            "# id": 170182,
+            "english_word": "Unison",
+            "part_of_speech": "n",
+            "malayalam_definition": "സ്വരമേളം"
+        },
+        {
+            "# id": 170183,
+            "english_word": "Unison",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകധ്വനി"
+        },
+        {
+            "# id": 170184,
+            "english_word": "Unison",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകസ്വരം"
+        },
+        {
+            "# id": 198857,
+            "english_word": "Unison",
+            "part_of_speech": "-",
+            "malayalam_definition": "യോജിപ്പ്"
+        },
+        {
+            "# id": 87176,
+            "english_word": "Unisonal",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്വരൈക്യമായ"
+        },
+        {
+            "# id": 87177,
+            "english_word": "Unisonal",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഐകമത്യമായ"
+        },
+        {
+            "# id": 87178,
+            "english_word": "Unisonal",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്വരസംവാദമായ"
+        },
+        {
+            "# id": 87179,
+            "english_word": "Unit",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഘടകം"
+        },
+        {
+            "# id": 87180,
+            "english_word": "Unit",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകാങ്കം"
+        },
+        {
+            "# id": 87181,
+            "english_word": "Unit",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകകം"
+        },
+        {
+            "# id": 87182,
+            "english_word": "Unit",
+            "part_of_speech": "n",
+            "malayalam_definition": "കമ്പ്യൂട്ടറിന്റെ പ്രവര്‍ത്തനങ്ങളില്‍ ഏതെങ്കിലും പ്രത്യേക ജോലി നിര്‍വ്വഹിക്കുന്ന ഒരു ഘടകം"
+        },
+        {
+            "# id": 170185,
+            "english_word": "Unit",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഒന്ന്‌"
+        },
+        {
+            "# id": 170186,
+            "english_word": "Unit",
+            "part_of_speech": "n",
+            "malayalam_definition": "മാനം"
+        },
+        {
+            "# id": 170187,
+            "english_word": "Unit",
+            "part_of_speech": "n",
+            "malayalam_definition": "അളവ്‌"
+        },
+        {
+            "# id": 170188,
+            "english_word": "Unitarian",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകദൈവവാദി"
+        },
+        {
+            "# id": 170189,
+            "english_word": "Unitarian",
+            "part_of_speech": "n",
+            "malayalam_definition": "അദ്വൈതവാദി"
+        },
+        {
+            "# id": 87183,
+            "english_word": "Unitary",
+            "part_of_speech": "a",
+            "malayalam_definition": "അഭിന്നമായ"
+        },
+        {
+            "# id": 87184,
+            "english_word": "Unitary",
+            "part_of_speech": "a",
+            "malayalam_definition": "പൂര്‍ണ്ണമായ"
+        },
+        {
+            "# id": 87185,
+            "english_word": "Unitary",
+            "part_of_speech": "a",
+            "malayalam_definition": "അവിഭാജ്യമായ"
+        },
+        {
+            "# id": 170190,
+            "english_word": "Unitary",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകാത്മകമായ"
+        },
+        {
+            "# id": 170191,
+            "english_word": "Unitary",
+            "part_of_speech": "a",
+            "malayalam_definition": "അവിഭക്തമായ"
+        },
+        {
+            "# id": 87196,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഇണക്കുക"
+        },
+        {
+            "# id": 87197,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഒന്നാക്കുക"
+        },
+        {
+            "# id": 87198,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഒരുമിപ്പിക്കുക"
+        },
+        {
+            "# id": 87199,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഒരിമിപ്പിക്കുക"
+        },
+        {
+            "# id": 87200,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "കൂടുക"
+        },
+        {
+            "# id": 87201,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഒന്നിക്കുക"
+        },
+        {
+            "# id": 87202,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഏകീകരിക്കുക"
+        },
+        {
+            "# id": 87203,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഏകോപിക്കുക"
+        },
+        {
+            "# id": 87204,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "സംഘടിക്കുക"
+        },
+        {
+            "# id": 87205,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "മേളിക്കുക"
+        },
+        {
+            "# id": 170192,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഏകോപിപ്പിക്കുക"
+        },
+        {
+            "# id": 198859,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "കൂട്ടുകൂടുക"
+        },
+        {
+            "# id": 198860,
+            "english_word": "Unite",
+            "part_of_speech": "v",
+            "malayalam_definition": "യോജിക്കുക"
+        },
+        {
+            "# id": 87206,
+            "english_word": "United",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഒന്നായ"
+        },
+        {
+            "# id": 87207,
+            "english_word": "United",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകീകരിക്കപ്പെട്ട"
+        },
+        {
+            "# id": 87208,
+            "english_word": "United",
+            "part_of_speech": "a",
+            "malayalam_definition": "സംഘടിതമായ"
+        },
+        {
+            "# id": 170193,
+            "english_word": "United",
+            "part_of_speech": "a",
+            "malayalam_definition": "സംയുക്തമായ"
+        },
+        {
+            "# id": 170194,
+            "english_word": "United",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകസ്ഥമായ"
+        },
+        {
+            "# id": 198861,
+            "english_word": "United",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഒന്നായിക്കൂട്ടിച്ചേര്‍ത്ത"
+        },
+        {
+            "# id": 198862,
+            "english_word": "United",
+            "part_of_speech": "a",
+            "malayalam_definition": "സംഘടിത"
+        },
+        {
+            "# id": 198863,
+            "english_word": "United",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഐകമത്യമുള്ള"
+        },
+        {
+            "# id": 113344,
+            "english_word": "United with",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകീകരിക്കപ്പെട്ട"
+        },
+        {
+            "# id": 87209,
+            "english_word": "Unitedly",
+            "part_of_speech": "a",
+            "malayalam_definition": "സംഘടിതമായി"
+        },
+        {
+            "# id": 87210,
+            "english_word": "Unitedly",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകീകരിക്കപ്പെട്ടതായി"
+        },
+        {
+            "# id": 111160,
+            "english_word": "Uniting",
+            "part_of_speech": "v",
+            "malayalam_definition": "യോജിപ്പിക്കല്‍"
+        },
+        {
+            "# id": 111161,
+            "english_word": "Uniting",
+            "part_of_speech": "v",
+            "malayalam_definition": "യോജിക്കല്‍"
+        },
+        {
+            "# id": 111162,
+            "english_word": "Uniting",
+            "part_of_speech": "v",
+            "malayalam_definition": "കൂട്ടിച്ചേര്‍ക്കല്‍"
+        },
+        {
+            "# id": 87211,
+            "english_word": "Unitive",
+            "part_of_speech": "a",
+            "malayalam_definition": "സംയോജകമായ"
+        },
+        {
+            "# id": 87186,
+            "english_word": "Unitize",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഒന്നിപ്പിക്കുക"
+        },
+        {
+            "# id": 87187,
+            "english_word": "Unitize",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഏകീകരിക്കുക"
+        },
+        {
+            "# id": 87193,
+            "english_word": "Unitude",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകത്വം"
+        },
+        {
+            "# id": 87194,
+            "english_word": "Unitude",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകചിത്തത"
+        },
+        {
+            "# id": 87195,
+            "english_word": "Unitude",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകരീതി"
+        },
+        {
+            "# id": 87212,
+            "english_word": "Unity",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഒത്തൊരുമ"
+        },
+        {
+            "# id": 87213,
+            "english_word": "Unity",
+            "part_of_speech": "n",
+            "malayalam_definition": "യോജിച്ച അവസ്ഥ"
+        },
+        {
+            "# id": 87214,
+            "english_word": "Unity",
+            "part_of_speech": "n",
+            "malayalam_definition": "യോജിപ്പ്‌"
+        },
+        {
+            "# id": 87215,
+            "english_word": "Unity",
+            "part_of_speech": "-",
+            "malayalam_definition": "ഭാഗങ്ങള്‍ ഒരുമിച്ചു പൂര്‍ണ്ണവസ്‌തുവായിത്തീരല്‍"
+        },
+        {
+            "# id": 87216,
+            "english_word": "Unity",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഒരുമ"
+        },
+        {
+            "# id": 87217,
+            "english_word": "Unity",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഐക്യം"
+        },
+        {
+            "# id": 170196,
+            "english_word": "Unity",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഏകത"
+        },
+        {
+            "# id": 198864,
+            "english_word": "Unity",
+            "part_of_speech": "-",
+            "malayalam_definition": "ഒത്തൊരുമ"
+        },
+        {
+            "# id": 198865,
+            "english_word": "Unity",
+            "part_of_speech": "-",
+            "malayalam_definition": "യോജിപ്പ്"
+        },
+        {
+            "# id": 87224,
+            "english_word": "Unity in diversity",
+            "part_of_speech": "n",
+            "malayalam_definition": "നാനാത്വത്തില്‍ ഏകത്വം"
+        },
+        {
+            "# id": 116708,
+            "english_word": "Unity is strength",
+            "part_of_speech": "idm",
+            "malayalam_definition": "ഐകമത്യം മഹാബലം"
+        },
+        {
+            "# id": 87223,
+            "english_word": "Unity of place",
+            "part_of_speech": "n",
+            "malayalam_definition": "സ്ഥലൈക്യം"
+        },
+        {
+            "# id": 87222,
+            "english_word": "Unity of time",
+            "part_of_speech": "n",
+            "malayalam_definition": "കാലൈക്യം"
+        },
+        {
+            "# id": 87225,
+            "english_word": "Univalent",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഏകബലമായ"
+        },
+        {
+            "# id": 87226,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "എല്ലാറ്റിനും പറ്റിയ"
+        },
+        {
+            "# id": 87227,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "സര്‍വ്വവ്യാപിയായ"
+        },
+        {
+            "# id": 87228,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിശ്വജനീനമായ"
+        },
+        {
+            "# id": 87229,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുഴുവനായ"
+        },
+        {
+            "# id": 87230,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "എല്ലായിടത്തും വ്യാപിച്ച"
+        },
+        {
+            "# id": 87231,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "സാര്‍വ്വത്രികമായ"
+        },
+        {
+            "# id": 87232,
+            "english_word": "Universal",
+            "part_of_speech": "n",
+            "malayalam_definition": "സര്‍വസാധാരണം"
+        },
+        {
+            "# id": 87233,
+            "english_word": "Universal",
+            "part_of_speech": "n",
+            "malayalam_definition": "സാമാന്യാശയം"
+        },
+        {
+            "# id": 87234,
+            "english_word": "Universal",
+            "part_of_speech": "n",
+            "malayalam_definition": "സങ്കല്‍പം"
+        },
+        {
+            "# id": 87235,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "പൊതുവിലുള്ള"
+        },
+        {
+            "# id": 87236,
+            "english_word": "Universal",
+            "part_of_speech": "n",
+            "malayalam_definition": "സാര്‍വത്രികോപപാദ്യം"
+        },
+        {
+            "# id": 170197,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആഗോളമായ"
+        },
+        {
+            "# id": 170198,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിശ്വവിശാലമായ"
+        },
+        {
+            "# id": 170199,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "സാര്‍വ്വലൗകികമായ"
+        },
+        {
+            "# id": 198866,
+            "english_word": "Universal",
+            "part_of_speech": "-",
+            "malayalam_definition": "പൂര്‍ണ്ണമായ"
+        },
+        {
+            "# id": 216621,
+            "english_word": "Universal",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആഗോളമായ"
+        },
+        {
+            "# id": 115283,
+            "english_word": "Universal access",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഒരു നിയന്ത്രണവും കൂടാതെ വിവരങ്ങള്‍ എല്ലാവര്‍ക്കും ലഭ്യമാക്കുക"
+        },
+        {
+            "# id": 109617,
+            "english_word": "Universal conquest",
+            "part_of_speech": "n",
+            "malayalam_definition": "ലോകംമുഴുവന്‍ കീഴടക്കല്‍"
+        },
+        {
+            "# id": 111298,
+            "english_word": "Universal flood",
+            "part_of_speech": "n",
+            "malayalam_definition": "സര്‍വ്വപ്രളയം"
+        },
+        {
+            "# id": 111299,
+            "english_word": "Universal flood",
+            "part_of_speech": "n",
+            "malayalam_definition": "പ്രളയം"
+        },
+        {
+            "# id": 96587,
+            "english_word": "Universal gravitation",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഭൂമിയുടെ ആകര്‍ഷണധര്‍മ്മം"
+        },
+        {
+            "# id": 201342,
+            "english_word": "Universal serial bus",
+            "part_of_speech": "n",
+            "malayalam_definition": "വ്യാപക ക്രമസഞ്ചാരണ വിധാനം"
+        },
+        {
+            "# id": 170200,
+            "english_word": "Universalist",
+            "part_of_speech": "n",
+            "malayalam_definition": "സമസ്‌തരക്ഷണവാദി"
+        },
+        {
+            "# id": 216622,
+            "english_word": "Universalist",
+            "part_of_speech": "n",
+            "malayalam_definition": "സമസ്തരക്ഷണവാദി"
+        },
+        {
+            "# id": 170201,
+            "english_word": "Universality",
+            "part_of_speech": "n",
+            "malayalam_definition": "സാര്‍വ്വലൗകികത"
+        },
+        {
+            "# id": 170202,
+            "english_word": "Universality",
+            "part_of_speech": "n",
+            "malayalam_definition": "സാര്‍വ്വജനീനത്വം"
+        },
+        {
+            "# id": 216623,
+            "english_word": "Universality",
+            "part_of_speech": "n",
+            "malayalam_definition": "സാര്‍വ്വലൗകീകത"
+        },
+        {
+            "# id": 87237,
+            "english_word": "Universally",
+            "part_of_speech": "a",
+            "malayalam_definition": "സര്‍വ്വവ്യാപിയായി"
+        },
+        {
+            "# id": 87238,
+            "english_word": "Universally",
+            "part_of_speech": "a",
+            "malayalam_definition": "പൊതുവിലുള്ളതായി"
+        },
+        {
+            "# id": 87239,
+            "english_word": "Universally",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിശ്വജനീനമായി"
+        },
+        {
+            "# id": 87240,
+            "english_word": "Universally",
+            "part_of_speech": "a",
+            "malayalam_definition": "മുഴുവനായി"
+        },
+        {
+            "# id": 170203,
+            "english_word": "Universally",
+            "part_of_speech": "adv",
+            "malayalam_definition": "സര്‍വ്വസാധാരണമായി"
+        },
+        {
+            "# id": 170204,
+            "english_word": "Universally",
+            "part_of_speech": "-",
+            "malayalam_definition": "പൊതുവേ"
+        },
+        {
+            "# id": 170205,
+            "english_word": "Universally",
+            "part_of_speech": "-",
+            "malayalam_definition": "എങ്ങും"
+        },
+        {
+            "# id": 170206,
+            "english_word": "Universally",
+            "part_of_speech": "-",
+            "malayalam_definition": "എല്ലായിടത്തും"
+        },
+        {
+            "# id": 198867,
+            "english_word": "Universally",
+            "part_of_speech": "-",
+            "malayalam_definition": "സാര്‍വ്വത്രികമായി"
+        },
+        {
+            "# id": 87243,
+            "english_word": "Universe",
+            "part_of_speech": "n",
+            "malayalam_definition": "പ്രപഞ്ചം"
+        },
+        {
+            "# id": 87244,
+            "english_word": "Universe",
+            "part_of_speech": "-",
+            "malayalam_definition": "ജഗത്ത്‌"
+        },
+        {
+            "# id": 87245,
+            "english_word": "Universe",
+            "part_of_speech": "n",
+            "malayalam_definition": "വിശ്വം"
+        },
+        {
+            "# id": 87246,
+            "english_word": "Universe",
+            "part_of_speech": "n",
+            "malayalam_definition": "ബ്രഹ്മാണ്‌ഡം"
+        },
+        {
+            "# id": 87247,
+            "english_word": "Universe",
+            "part_of_speech": "n",
+            "malayalam_definition": "സൃഷ്‌ടിജാലം"
+        },
+        {
+            "# id": 170207,
+            "english_word": "Universe",
+            "part_of_speech": "n",
+            "malayalam_definition": "പ്രകൃതി"
+        },
+        {
+            "# id": 216624,
+            "english_word": "Universe",
+            "part_of_speech": "n",
+            "malayalam_definition": "ബ്രഹ്മാണ്ഡം"
+        },
+        {
+            "# id": 216625,
+            "english_word": "Universe",
+            "part_of_speech": "n",
+            "malayalam_definition": "ജഗത്ത്"
+        },
+        {
+            "# id": 87248,
+            "english_word": "University",
+            "part_of_speech": "n",
+            "malayalam_definition": "സര്‍കലാശാല"
+        },
+        {
+            "# id": 87249,
+            "english_word": "University",
+            "part_of_speech": "n",
+            "malayalam_definition": "വിശ്വവിദ്യാലയം"
+        },
+        {
+            "# id": 170208,
+            "english_word": "University",
+            "part_of_speech": "n",
+            "malayalam_definition": "വിശ്വകലാലയം"
+        },
+        {
+            "# id": 170209,
+            "english_word": "University",
+            "part_of_speech": "n",
+            "malayalam_definition": "സര്‍വ്വകലാശാല"
+        },
+        {
+            "# id": 170210,
+            "english_word": "University",
+            "part_of_speech": "n",
+            "malayalam_definition": "വിശ്വവിദ്യാലയം"
+        },
+        {
+            "# id": 198868,
+            "english_word": "University",
+            "part_of_speech": "-",
+            "malayalam_definition": "സര്‍വകലാശാല"
+        },
+        {
+            "# id": 198869,
+            "english_word": "University",
+            "part_of_speech": "-",
+            "malayalam_definition": "വിദ്യാപീഠം"
+        },
+        {
+            "# id": 100301,
+            "english_word": "Unix",
+            "part_of_speech": "-",
+            "malayalam_definition": "കംപ്യൂട്ടര്‍ പ്രവര്‍ത്തിപ്പിക്കാനുള്ള ഒരു പ്രോഗ്രാം"
+        },
+        {
+            "# id": 100302,
+            "english_word": "Unix",
+            "part_of_speech": "n",
+            "malayalam_definition": "ബെല്‍ ലാബറട്ടറി വികസിപ്പിച്ചെടുത്തതും ഇന്റര്‍നെറ്റിലെ സെര്‍വറുകളില്‍ വ്യാപകമായി ഉപയോഗിക്കുന്നതുമായ ഓപ്പറേറ്റിംഗ്‌ സിസ്റ്റം"
+        },
+        {
+            "# id": 87250,
+            "english_word": "Unjust",
+            "part_of_speech": "a",
+            "malayalam_definition": "നീതിയുക്തമല്ലാത്ത"
+        },
+        {
+            "# id": 87251,
+            "english_word": "Unjust",
+            "part_of_speech": "a",
+            "malayalam_definition": "ന്യായരഹിതമായ"
+        },
+        {
+            "# id": 87252,
+            "english_word": "Unjust",
+            "part_of_speech": "a",
+            "malayalam_definition": "അന്യായമായ"
+        },
+        {
+            "# id": 87253,
+            "english_word": "Unjust",
+            "part_of_speech": "a",
+            "malayalam_definition": "കളവായ"
+        },
+        {
+            "# id": 170211,
+            "english_word": "Unjust",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനീതിയായ"
+        },
+        {
+            "# id": 170212,
+            "english_word": "Unjust",
+            "part_of_speech": "a",
+            "malayalam_definition": "നേരുകേടുള്ള"
+        },
+        {
+            "# id": 170213,
+            "english_word": "Unjust",
+            "part_of_speech": "a",
+            "malayalam_definition": "പരമാര്‍ത്ഥമില്ലാത്ത"
+        },
+        {
+            "# id": 170218,
+            "english_word": "Unjustifiable",
+            "part_of_speech": "a",
+            "malayalam_definition": "നീതീകരിക്കാന്‍ പാടില്ലാത്ത"
+        },
+        {
+            "# id": 170219,
+            "english_word": "Unjustifiable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അന്യായമായ"
+        },
+        {
+            "# id": 120876,
+            "english_word": "Unjustified",
+            "part_of_speech": "a",
+            "malayalam_definition": "അന്യായമായ"
+        },
+        {
+            "# id": 170215,
+            "english_word": "Unjustified",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദോഷയുക്തമായ"
+        },
+        {
+            "# id": 170216,
+            "english_word": "Unjustified",
+            "part_of_speech": "a",
+            "malayalam_definition": "നീതിരഹിതമായ"
+        },
+        {
+            "# id": 216626,
+            "english_word": "Unjustified",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദോഷയുക്തമായ"
+        },
+        {
+            "# id": 87254,
+            "english_word": "Unjustly",
+            "part_of_speech": "a",
+            "malayalam_definition": "നീതികേടായി"
+        },
+        {
+            "# id": 87255,
+            "english_word": "Unjustly",
+            "part_of_speech": "a",
+            "malayalam_definition": "നീതിയില്ലാതെ"
+        },
+        {
+            "# id": 170214,
+            "english_word": "Unjustly",
+            "part_of_speech": "a",
+            "malayalam_definition": "അന്യായമായി"
+        },
+        {
+            "# id": 121190,
+            "english_word": "Unkempt",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രത്യക്ഷത്തില്‍തന്നെ അവഗണിക്കാവുന്ന"
+        },
+        {
+            "# id": 121191,
+            "english_word": "Unkempt",
+            "part_of_speech": "a",
+            "malayalam_definition": "വൃത്തിയില്ലാത്ത"
+        },
+        {
+            "# id": 170220,
+            "english_word": "Unkempt",
+            "part_of_speech": "a",
+            "malayalam_definition": "മോടിപിടിപ്പിക്കാത്ത"
+        },
+        {
+            "# id": 170221,
+            "english_word": "Unkempt",
+            "part_of_speech": "-",
+            "malayalam_definition": "പരുപരുത്ത"
+        },
+        {
+            "# id": 170222,
+            "english_word": "Unkempt",
+            "part_of_speech": "a",
+            "malayalam_definition": "മലിനവേഷമായ"
+        },
+        {
+            "# id": 216627,
+            "english_word": "Unkempt",
+            "part_of_speech": "a",
+            "malayalam_definition": "മോടിപിടിപ്പിക്കാത്ത"
+        },
+        {
+            "# id": 216628,
+            "english_word": "Unkempt",
+            "part_of_speech": "a",
+            "malayalam_definition": "പരുപരുത്ത"
+        },
+        {
+            "# id": 87268,
+            "english_word": "Unkind",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍ദ്ദയമായ"
+        },
+        {
+            "# id": 87269,
+            "english_word": "Unkind",
+            "part_of_speech": "a",
+            "malayalam_definition": "ക്രൂരമായ"
+        },
+        {
+            "# id": 170223,
+            "english_word": "Unkindly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ദയയില്ലാതെ"
+        },
+        {
+            "# id": 170224,
+            "english_word": "Unkindly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "സ്‌നേഹശൂന്യമായി"
+        },
+        {
+            "# id": 170225,
+            "english_word": "Unkindly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "അനനുകൂലമായി"
+        },
+        {
+            "# id": 216629,
+            "english_word": "Unkindly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "സ്നേഹശൂന്യമായി"
+        },
+        {
+            "# id": 170226,
+            "english_word": "Unknowingly",
+            "part_of_speech": "-",
+            "malayalam_definition": "അറിയാതെ"
+        },
+        {
+            "# id": 170227,
+            "english_word": "Unknowingly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "അജ്ഞതാപൂര്‍വ്വം"
+        },
+        {
+            "# id": 87293,
+            "english_word": "Unknown",
+            "part_of_speech": "a",
+            "malayalam_definition": "അറിയപ്പെടാത്ത"
+        },
+        {
+            "# id": 87294,
+            "english_word": "Unknown",
+            "part_of_speech": "a",
+            "malayalam_definition": "അവിദിതമായ"
+        },
+        {
+            "# id": 87295,
+            "english_word": "Unknown",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപ്രശസ്‌തമായ"
+        },
+        {
+            "# id": 170228,
+            "english_word": "Unknown",
+            "part_of_speech": "a",
+            "malayalam_definition": "അജ്ഞാതമായ"
+        },
+        {
+            "# id": 201152,
+            "english_word": "Unknown",
+            "part_of_speech": "n",
+            "malayalam_definition": "അജ്ഞാതം"
+        },
+        {
+            "# id": 170229,
+            "english_word": "Unlace",
+            "part_of_speech": "v",
+            "malayalam_definition": "കെട്ടഴിക്കുക"
+        },
+        {
+            "# id": 170230,
+            "english_word": "Unlace",
+            "part_of_speech": "v",
+            "malayalam_definition": "വിടര്‍ത്തുക"
+        },
+        {
+            "# id": 170231,
+            "english_word": "Unladen",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭാരമിറക്കിയ"
+        },
+        {
+            "# id": 170232,
+            "english_word": "Unladen",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചുമതലയൊഴിഞ്ഞ"
+        },
+        {
+            "# id": 170233,
+            "english_word": "Unladen",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചുമടിറങ്ങിയ"
+        },
+        {
+            "# id": 216630,
+            "english_word": "Unladen",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചുമതലയൊഴിഞ്ഞ"
+        },
+        {
+            "# id": 102253,
+            "english_word": "Unlathering",
+            "part_of_speech": "a",
+            "malayalam_definition": "പതറാത്ത"
+        },
+        {
+            "# id": 87308,
+            "english_word": "Unlawful",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിയമവിരുദ്ധമായ"
+        },
+        {
+            "# id": 87309,
+            "english_word": "Unlawful",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിയമാനുസാരമല്ലാത്ത"
+        },
+        {
+            "# id": 170234,
+            "english_word": "Unlawful",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിയമമനുവദിക്കാത്ത"
+        },
+        {
+            "# id": 170235,
+            "english_word": "Unlawfully",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിയമവിരുദ്ധമായി"
+        },
+        {
+            "# id": 170236,
+            "english_word": "Unleaded",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഈയം പൊതിയാത്ത"
+        },
+        {
+            "# id": 170237,
+            "english_word": "Unleaded",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഈയമിട്ടുതൂക്കം വരുത്താത്ത"
+        },
+        {
+            "# id": 216631,
+            "english_word": "Unleaded",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഈയം പൊതിയാത്ത"
+        },
+        {
+            "# id": 170238,
+            "english_word": "Unlearn",
+            "part_of_speech": "v",
+            "malayalam_definition": "പഠിച്ചതു മറക്കുക"
+        },
+        {
+            "# id": 170239,
+            "english_word": "Unlearn",
+            "part_of_speech": "v",
+            "malayalam_definition": "മനസ്സില്‍നിന്നും ബഹിഷ്‌കരിക്കുക"
+        },
+        {
+            "# id": 216632,
+            "english_word": "Unlearn",
+            "part_of_speech": "v",
+            "malayalam_definition": "മനസ്സില്‍നിന്നും ബഹിഷ്കരിക്കുക"
+        },
+        {
+            "# id": 102761,
+            "english_word": "Unlearned",
+            "part_of_speech": "a",
+            "malayalam_definition": "പഠിപ്പില്ലാത്ത"
+        },
+        {
+            "# id": 101439,
+            "english_word": "Unlearnt",
+            "part_of_speech": "a",
+            "malayalam_definition": "പഠിക്കാത്ത"
+        },
+        {
+            "# id": 87329,
+            "english_word": "Unleash",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിയമവിരുദ്ധമായ"
+        },
+        {
+            "# id": 87330,
+            "english_word": "Unleash",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിയമാനുസാരമല്ലാത്ത"
+        },
+        {
+            "# id": 87331,
+            "english_word": "Unleash",
+            "part_of_speech": "v",
+            "malayalam_definition": "കെട്ടഴിച്ചുവിടുക"
+        },
+        {
+            "# id": 87332,
+            "english_word": "Unleash",
+            "part_of_speech": "v",
+            "malayalam_definition": "സ്വതന്ത്രമാക്കുക"
+        },
+        {
+            "# id": 170240,
+            "english_word": "Unleash",
+            "part_of_speech": "v",
+            "malayalam_definition": "അഴിച്ചുമാറ്റുക"
+        },
+        {
+            "# id": 170241,
+            "english_word": "Unleash",
+            "part_of_speech": "v",
+            "malayalam_definition": "തുറന്നുപ്രകടിപ്പിക്കുക"
+        },
+        {
+            "# id": 170242,
+            "english_word": "Unleavened",
+            "part_of_speech": "a",
+            "malayalam_definition": "പുളിക്കാത്ത"
+        },
+        {
+            "# id": 170243,
+            "english_word": "Unleavened",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉറയാത്ത"
+        },
+        {
+            "# id": 170244,
+            "english_word": "Unleavened",
+            "part_of_speech": "a",
+            "malayalam_definition": "പുളിപ്പില്ലാത്ത"
+        },
+        {
+            "# id": 110453,
+            "english_word": "Unleavened rice cake",
+            "part_of_speech": "n",
+            "malayalam_definition": "പത്തിരി"
+        },
+        {
+            "# id": 87348,
+            "english_word": "Unless",
+            "part_of_speech": "-",
+            "malayalam_definition": "അല്ലാഞ്ഞാല്‍"
+        },
+        {
+            "# id": 87349,
+            "english_word": "Unless",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യത്യാസപ്പെട്ട"
+        },
+        {
+            "# id": 87350,
+            "english_word": "Unless",
+            "part_of_speech": "conj",
+            "malayalam_definition": "അല്ലാതിരുന്നാല്‍"
+        },
+        {
+            "# id": 87351,
+            "english_word": "Unless",
+            "part_of_speech": "a",
+            "malayalam_definition": "അല്ലാതെ"
+        },
+        {
+            "# id": 170245,
+            "english_word": "Unless",
+            "part_of_speech": "conj",
+            "malayalam_definition": "അല്ലെങ്കില്‍"
+        },
+        {
+            "# id": 170246,
+            "english_word": "Unless",
+            "part_of_speech": "conj",
+            "malayalam_definition": "ഇല്ലെങ്കില്‍"
+        },
+        {
+            "# id": 198870,
+            "english_word": "Unless",
+            "part_of_speech": "-",
+            "malayalam_definition": "കൂടാതെ"
+        },
+        {
+            "# id": 120881,
+            "english_word": "Unlettered",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിരക്ഷരനായ"
+        },
+        {
+            "# id": 123672,
+            "english_word": "Unlettered",
+            "part_of_speech": "a",
+            "malayalam_definition": "അക്ഷരപരിജ്ഞാനമില്ലാത്ത"
+        },
+        {
+            "# id": 123673,
+            "english_word": "Unlettered",
+            "part_of_speech": "a",
+            "malayalam_definition": "കാവ്യഗന്ധമില്ലാത്ത"
+        },
+        {
+            "# id": 123674,
+            "english_word": "Unlettered",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിരക്ഷരകുക്ഷിയായ"
+        },
+        {
+            "# id": 119838,
+            "english_word": "Unlicensed",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനുമതിയില്ലാത്ത"
+        },
+        {
+            "# id": 119839,
+            "english_word": "Unlicensed",
+            "part_of_speech": "a",
+            "malayalam_definition": "വിരുദ്ധമായ"
+        },
+        {
+            "# id": 170247,
+            "english_word": "Unlicensed",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനുവാദമില്ലാത്ത"
+        },
+        {
+            "# id": 170248,
+            "english_word": "Unlicensed",
+            "part_of_speech": "a",
+            "malayalam_definition": "കല്‌പനകിട്ടാത്ത"
+        },
+        {
+            "# id": 170249,
+            "english_word": "Unlicensed",
+            "part_of_speech": "a",
+            "malayalam_definition": "ലൈസന്‍സുവാങ്ങാത്ത"
+        },
+        {
+            "# id": 216633,
+            "english_word": "Unlicensed",
+            "part_of_speech": "a",
+            "malayalam_definition": "കല്പനകിട്ടാത്ത"
+        },
+        {
+            "# id": 120856,
+            "english_word": "Unlike",
+            "part_of_speech": "n",
+            "malayalam_definition": "അരസികത"
+        },
+        {
+            "# id": 120857,
+            "english_word": "Unlike",
+            "part_of_speech": "n",
+            "malayalam_definition": "അനിഷ്‌ടം"
+        },
+        {
+            "# id": 171130,
+            "english_word": "Unlike",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനുരൂപമല്ലാത്ത"
+        },
+        {
+            "# id": 171131,
+            "english_word": "Unlike",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യത്യാസപ്പെട്ട"
+        },
+        {
+            "# id": 87256,
+            "english_word": "Unlikely",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉണ്ടാവാനിടയില്ലാത്ത"
+        },
+        {
+            "# id": 87257,
+            "english_word": "Unlikely",
+            "part_of_speech": "a",
+            "malayalam_definition": "സന്ദേഹമായ"
+        },
+        {
+            "# id": 87258,
+            "english_word": "Unlikely",
+            "part_of_speech": "a",
+            "malayalam_definition": "സംശയകകരമായ"
+        },
+        {
+            "# id": 87259,
+            "english_word": "Unlikely",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിഷ്‌ഫലമായി തോന്നുന്ന"
+        },
+        {
+            "# id": 170250,
+            "english_word": "Unlikely",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസാദ്ധ്യമായ"
+        },
+        {
+            "# id": 170251,
+            "english_word": "Unlikely",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിസ്സന്ദേഹമായ"
+        },
+        {
+            "# id": 87260,
+            "english_word": "Unlimited",
+            "part_of_speech": "v",
+            "malayalam_definition": "ചരക്കിറക്കുക"
+        },
+        {
+            "# id": 87261,
+            "english_word": "Unlimited",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഭാരമിറക്കുക"
+        },
+        {
+            "# id": 87262,
+            "english_word": "Unlimited",
+            "part_of_speech": "v",
+            "malayalam_definition": "ചുമടിറക്കുക"
+        },
+        {
+            "# id": 170252,
+            "english_word": "Unlimited",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനിയന്ത്രിതമായ"
+        },
+        {
+            "# id": 170253,
+            "english_word": "Unlimited",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപരിമിതമായ"
+        },
+        {
+            "# id": 170254,
+            "english_word": "Unlimited",
+            "part_of_speech": "-",
+            "malayalam_definition": "അളവറ്റ"
+        },
+        {
+            "# id": 170255,
+            "english_word": "Unlimited",
+            "part_of_speech": "a",
+            "malayalam_definition": "അതിരുകവിഞ്ഞ"
+        },
+        {
+            "# id": 170256,
+            "english_word": "Unlined",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചുളിവുവീഴാത്ത"
+        },
+        {
+            "# id": 170257,
+            "english_word": "Unlined",
+            "part_of_speech": "a",
+            "malayalam_definition": "വരയില്ലാത്ത"
+        },
+        {
+            "# id": 170258,
+            "english_word": "Unlined",
+            "part_of_speech": "a",
+            "malayalam_definition": "വരയിടാത്ത"
+        },
+        {
+            "# id": 170259,
+            "english_word": "Unlisted",
+            "part_of_speech": "a",
+            "malayalam_definition": "പട്ടികയില്‍ ഉള്‍പ്പെടുത്താത്ത"
+        },
+        {
+            "# id": 170260,
+            "english_word": "Unlisted",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഓഹരിക്കമ്പോളത്തില്‍ വരവുവയ്‌ക്കാത്ത"
+        },
+        {
+            "# id": 216634,
+            "english_word": "Unlisted",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഓഹരിക്കന്പോളത്തില്‍ വരവുവെയ്ക്കാത്ത"
+        },
+        {
+            "# id": 118654,
+            "english_word": "Unlit",
+            "part_of_speech": "-",
+            "malayalam_definition": "മങ്ങിയ"
+        },
+        {
+            "# id": 104354,
+            "english_word": "Unload",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഭാരമിറക്കുക"
+        },
+        {
+            "# id": 104355,
+            "english_word": "Unload",
+            "part_of_speech": "v",
+            "malayalam_definition": "കമ്പ്യൂട്ടറിന്റെ മെമ്മറിയിലുള്ള കാര്യങ്ങള്‍ സിഡിയിലേക്കോ ഫ്‌ളോപ്പിയിലേക്കോ ടേപ്പിലേക്കോ പകര്‍ത്തുക"
+        },
+        {
+            "# id": 170263,
+            "english_word": "Unload",
+            "part_of_speech": "v",
+            "malayalam_definition": "തോക്കിലെ നിറയൊഴിക്കുക"
+        },
+        {
+            "# id": 170264,
+            "english_word": "Unload",
+            "part_of_speech": "v",
+            "malayalam_definition": "തിരയുതിര്‍ക്കുക"
+        },
+        {
+            "# id": 216635,
+            "english_word": "Unload",
+            "part_of_speech": "v",
+            "malayalam_definition": "തോക്കിലെ നിറയൊഴിക്കുക"
+        },
+        {
+            "# id": 120712,
+            "english_word": "Unloading",
+            "part_of_speech": "n",
+            "malayalam_definition": "ന്യൂനീകരണം"
+        },
+        {
+            "# id": 120713,
+            "english_word": "Unloading",
+            "part_of_speech": "v",
+            "malayalam_definition": "കുറക്കല്‍"
+        },
+        {
+            "# id": 87270,
+            "english_word": "Unlock",
+            "part_of_speech": "v",
+            "malayalam_definition": "പൂട്ടു തുറക്കുക"
+        },
+        {
+            "# id": 87271,
+            "english_word": "Unlock",
+            "part_of_speech": "v",
+            "malayalam_definition": "വെളിപ്പെടുത്തുക"
+        },
+        {
+            "# id": 170265,
+            "english_word": "Unlock",
+            "part_of_speech": "v",
+            "malayalam_definition": "പൂട്ടുതുറക്കുക"
+        },
+        {
+            "# id": 170266,
+            "english_word": "Unlock",
+            "part_of_speech": "v",
+            "malayalam_definition": "തുറന്നുവിടുക"
+        },
+        {
+            "# id": 170267,
+            "english_word": "Unlooked-for",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രതീക്ഷിക്കാത്ത"
+        },
+        {
+            "# id": 170268,
+            "english_word": "Unlooked-for",
+            "part_of_speech": "a",
+            "malayalam_definition": "കാത്തിരിക്കാത്ത"
+        },
+        {
+            "# id": 170269,
+            "english_word": "Unlooked-for",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഓര്‍ക്കാത്ത"
+        },
+        {
+            "# id": 87272,
+            "english_word": "Unloose",
+            "part_of_speech": "v",
+            "malayalam_definition": "മോചിപ്പിക്കുക"
+        },
+        {
+            "# id": 87273,
+            "english_word": "Unloose",
+            "part_of_speech": "v",
+            "malayalam_definition": "അഴിച്ചുവിടുക"
+        },
+        {
+            "# id": 87274,
+            "english_word": "Unloose",
+            "part_of_speech": "v",
+            "malayalam_definition": "കെട്ടഴിക്കുക"
+        },
+        {
+            "# id": 170270,
+            "english_word": "Unloose",
+            "part_of_speech": "v",
+            "malayalam_definition": "അഴിയുക"
+        },
+        {
+            "# id": 170271,
+            "english_word": "Unlovely",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനാകര്‍ഷകമായ"
+        },
+        {
+            "# id": 170272,
+            "english_word": "Unlovely",
+            "part_of_speech": "a",
+            "malayalam_definition": "സൗന്ദര്യമില്ലാത്ത"
+        },
+        {
+            "# id": 170273,
+            "english_word": "Unlovely",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഇമ്പമില്ലാത്ത"
+        },
+        {
+            "# id": 216636,
+            "english_word": "Unlovely",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഇന്പമില്ലാത്ത"
+        },
+        {
+            "# id": 87278,
+            "english_word": "Unluckily",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭാഗ്യംകെട്ട"
+        },
+        {
+            "# id": 87279,
+            "english_word": "Unluckily",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദുശ്ശകുനമായ"
+        },
+        {
+            "# id": 87280,
+            "english_word": "Unluckily",
+            "part_of_speech": "a",
+            "malayalam_definition": "അമംഗലമായ"
+        },
+        {
+            "# id": 87281,
+            "english_word": "Unluckily",
+            "part_of_speech": "a",
+            "malayalam_definition": "അമംഗലമായി"
+        },
+        {
+            "# id": 87282,
+            "english_word": "Unluckily",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദുശ്ശകുനമായി"
+        },
+        {
+            "# id": 170276,
+            "english_word": "Unluckily",
+            "part_of_speech": "adv",
+            "malayalam_definition": "നിര്‍ഭാഗ്യമായി"
+        },
+        {
+            "# id": 170277,
+            "english_word": "Unluckily",
+            "part_of_speech": "adv",
+            "malayalam_definition": "നിര്‍ഭാഗ്യവശാല്‍"
+        },
+        {
+            "# id": 87283,
+            "english_word": "Unluckiness",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഭാഗ്യംകെടുക"
+        },
+        {
+            "# id": 87284,
+            "english_word": "Unluckiness",
+            "part_of_speech": "n",
+            "malayalam_definition": "ദുശ്ശകുനം"
+        },
+        {
+            "# id": 87285,
+            "english_word": "Unluckiness",
+            "part_of_speech": "n",
+            "malayalam_definition": "അമംഗലം"
+        },
+        {
+            "# id": 87275,
+            "english_word": "Unlucky",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഭാഗ്യംകെട്ട"
+        },
+        {
+            "# id": 87276,
+            "english_word": "Unlucky",
+            "part_of_speech": "a",
+            "malayalam_definition": "അമംഗലമായ"
+        },
+        {
+            "# id": 87277,
+            "english_word": "Unlucky",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദുശ്ശകുനമായ"
+        },
+        {
+            "# id": 170274,
+            "english_word": "Unlucky",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍ഭാഗ്യമായ"
+        },
+        {
+            "# id": 170275,
+            "english_word": "Unlucky",
+            "part_of_speech": "a",
+            "malayalam_definition": "അശുഭമായ"
+        },
+        {
+            "# id": 170278,
+            "english_word": "Unmade",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉണ്ടാക്കാത്ത"
+        },
+        {
+            "# id": 170279,
+            "english_word": "Unmade",
+            "part_of_speech": "a",
+            "malayalam_definition": "പാകപ്പെടുത്താത്ത"
+        },
+        {
+            "# id": 170280,
+            "english_word": "Unmade",
+            "part_of_speech": "a",
+            "malayalam_definition": "തയ്യാറാക്കാത്ത"
+        },
+        {
+            "# id": 87296,
+            "english_word": "Unmake",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഇല്ലാതാക്കുക"
+        },
+        {
+            "# id": 87297,
+            "english_word": "Unmake",
+            "part_of_speech": "v",
+            "malayalam_definition": "നശിപ്പിക്കുക"
+        },
+        {
+            "# id": 87298,
+            "english_word": "Unman",
+            "part_of_speech": "v",
+            "malayalam_definition": "ആണത്തമില്ലാതാക്കുക"
+        },
+        {
+            "# id": 87299,
+            "english_word": "Unman",
+            "part_of_speech": "v",
+            "malayalam_definition": "അധൈര്യപ്പെടുത്തുക"
+        },
+        {
+            "# id": 87300,
+            "english_word": "Unman",
+            "part_of_speech": "v",
+            "malayalam_definition": "നിര്‍വീര്യമാക്കുക"
+        },
+        {
+            "# id": 170285,
+            "english_word": "Unman",
+            "part_of_speech": "v",
+            "malayalam_definition": "പൗരുഷഹീനമാക്കുക"
+        },
+        {
+            "# id": 170286,
+            "english_word": "Unman",
+            "part_of_speech": "v",
+            "malayalam_definition": "ഉത്സാഹമില്ലാതാക്കുക"
+        },
+        {
+            "# id": 87302,
+            "english_word": "Unmanageable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഇണങ്ങാത്ത"
+        },
+        {
+            "# id": 87303,
+            "english_word": "Unmanageable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനുസരണയില്ലാത്ത"
+        },
+        {
+            "# id": 87304,
+            "english_word": "Unmanageable",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിയന്ത്രിച്ചുനിര്‍ത്താനൊക്കാത്ത"
+        },
+        {
+            "# id": 170281,
+            "english_word": "Unmanageable",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിയന്ത്രിക്കാനാവാത്ത"
+        },
+        {
+            "# id": 87301,
+            "english_word": "Unmanly",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആണത്തമില്ലാത്ത"
+        },
+        {
+            "# id": 170282,
+            "english_word": "Unmanly",
+            "part_of_speech": "a",
+            "malayalam_definition": "പൗരുഷഹീനമായ"
+        },
+        {
+            "# id": 170287,
+            "english_word": "Unmanned",
+            "part_of_speech": "a",
+            "malayalam_definition": "വൈമാനികനില്ലാത്ത"
+        },
+        {
+            "# id": 170288,
+            "english_word": "Unmanned",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിയന്താതാവില്ലാത്ത"
+        },
+        {
+            "# id": 170289,
+            "english_word": "Unmannerly",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസഭ്യമായ"
+        },
+        {
+            "# id": 170290,
+            "english_word": "Unmannerly",
+            "part_of_speech": "a",
+            "malayalam_definition": "അപമര്യാദയായ"
+        },
+        {
+            "# id": 170291,
+            "english_word": "Unmannerly",
+            "part_of_speech": "a",
+            "malayalam_definition": "മര്യാദയല്ലാത്ത"
+        },
+        {
+            "# id": 87305,
+            "english_word": "Unmarketable",
+            "part_of_speech": "a",
+            "malayalam_definition": "വില്‍പനയോഗ്യമല്ലാത്ത"
+        },
+        {
+            "# id": 87310,
+            "english_word": "Unmarried",
+            "part_of_speech": "a",
+            "malayalam_definition": "കഴിക്കാത്ത"
+        },
+        {
+            "# id": 87311,
+            "english_word": "Unmarried",
+            "part_of_speech": "a",
+            "malayalam_definition": "അവിവാഹിതനായ"
+        },
+        {
+            "# id": 100542,
+            "english_word": "Unmarried person",
+            "part_of_speech": "n",
+            "malayalam_definition": "അവിവാഹിതന്‍"
+        },
+        {
+            "# id": 111498,
+            "english_word": "Unmarried youth",
+            "part_of_speech": "n",
+            "malayalam_definition": "അവിവാഹിതനായ യുവാവ്‌"
+        },
+        {
+            "# id": 87312,
+            "english_word": "Unmask",
+            "part_of_speech": "v",
+            "malayalam_definition": "കപടവേഷം മാറ്റുക"
+        },
+        {
+            "# id": 87313,
+            "english_word": "Unmask",
+            "part_of_speech": "v",
+            "malayalam_definition": "അനാവരണം ചെയ്യുക"
+        },
+        {
+            "# id": 87314,
+            "english_word": "Unmask",
+            "part_of_speech": "v",
+            "malayalam_definition": "വെളിച്ചത്താക്കുക"
+        },
+        {
+            "# id": 170292,
+            "english_word": "Unmask",
+            "part_of_speech": "v",
+            "malayalam_definition": "മുഖംമൂടിനീക്കുക"
+        },
+        {
+            "# id": 170293,
+            "english_word": "Unmask",
+            "part_of_speech": "v",
+            "malayalam_definition": "നിജസ്ഥിതി വെളിപ്പെടുത്തുക"
+        },
+        {
+            "# id": 120364,
+            "english_word": "Unmatched",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചേര്‍ച്ചയില്ലാത്ത"
+        },
+        {
+            "# id": 120365,
+            "english_word": "Unmatched",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഇണങ്ങാത്ത"
+        },
+        {
+            "# id": 170294,
+            "english_word": "Unmatched",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനുപമമായ"
+        },
+        {
+            "# id": 170295,
+            "english_word": "Unmatched",
+            "part_of_speech": "a",
+            "malayalam_definition": "അദ്വിതീയമായ"
+        },
+        {
+            "# id": 87315,
+            "english_word": "Unmeaning",
+            "part_of_speech": "a",
+            "malayalam_definition": "അര്‍ത്ഥമില്ലാത്ത"
+        },
+        {
+            "# id": 87316,
+            "english_word": "Unmeaning",
+            "part_of_speech": "a",
+            "malayalam_definition": "അര്‍ത്ഥശൂന്യമായ"
+        },
+        {
+            "# id": 87317,
+            "english_word": "Unmeaning",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസംഗതമായ"
+        },
+        {
+            "# id": 123675,
+            "english_word": "Unmeaning",
+            "part_of_speech": "n",
+            "malayalam_definition": "ഉദ്ദേശ്യരഹിത"
+        },
+        {
+            "# id": 87318,
+            "english_word": "Unmeant",
+            "part_of_speech": "a",
+            "malayalam_definition": "കരുതാത്ത"
+        },
+        {
+            "# id": 87319,
+            "english_word": "Unmeant",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉദ്ദിഷ്‌ടമല്ലാത്ത"
+        },
+        {
+            "# id": 170296,
+            "english_word": "Unmemorable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഓര്‍ക്കാനാവാത്ത"
+        },
+        {
+            "# id": 170297,
+            "english_word": "Unmemorable",
+            "part_of_speech": "a",
+            "malayalam_definition": "സംഭവബഹുലമല്ലാത്ത"
+        },
+        {
+            "# id": 170298,
+            "english_word": "Unmentionable",
+            "part_of_speech": "a",
+            "malayalam_definition": "പറയത്തക്കതല്ലാത്ത"
+        },
+        {
+            "# id": 170299,
+            "english_word": "Unmentionable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ബോധിപ്പിക്കേണ്ടതല്ലാത്ത"
+        },
+        {
+            "# id": 216637,
+            "english_word": "Unmentionable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ബോധിപ്പിക്കേണ്ടതല്ലാത്ത"
+        },
+        {
+            "# id": 120200,
+            "english_word": "Unmentionables",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രസ്‌താവയോഗ്യമല്ലാത്ത"
+        },
+        {
+            "# id": 118103,
+            "english_word": "Unmerciful",
+            "part_of_speech": "a",
+            "malayalam_definition": "പരുഷമായ"
+        },
+        {
+            "# id": 118104,
+            "english_word": "Unmerciful",
+            "part_of_speech": "a",
+            "malayalam_definition": "കര്‍ക്കശമായ"
+        },
+        {
+            "# id": 118105,
+            "english_word": "Unmerciful",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍ദ്ദയമായ"
+        },
+        {
+            "# id": 118106,
+            "english_word": "Unmerciful",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദയയില്ലാത്ത"
+        },
+        {
+            "# id": 118107,
+            "english_word": "Unmerciful",
+            "part_of_speech": "a",
+            "malayalam_definition": "കരുണയില്ലാത്ത"
+        },
+        {
+            "# id": 120877,
+            "english_word": "Unmerited",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനര്‍ഹമായ"
+        },
+        {
+            "# id": 120878,
+            "english_word": "Unmerited",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനധികൃതമായ"
+        },
+        {
+            "# id": 170300,
+            "english_word": "Unmet",
+            "part_of_speech": "a",
+            "malayalam_definition": "നേടാത്ത"
+        },
+        {
+            "# id": 170301,
+            "english_word": "Unmet",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഒടുക്കാത്ത"
+        },
+        {
+            "# id": 170302,
+            "english_word": "Unmet",
+            "part_of_speech": "a",
+            "malayalam_definition": "കൊടുത്തുതീര്‍ക്കാത്ത"
+        },
+        {
+            "# id": 216638,
+            "english_word": "Unmet",
+            "part_of_speech": "a",
+            "malayalam_definition": "കൊടുത്തുതീര്‍ക്കാത്ത"
+        },
+        {
+            "# id": 117093,
+            "english_word": "Unmindful",
+            "part_of_speech": "a",
+            "malayalam_definition": "മറവിയുള്ള"
+        },
+        {
+            "# id": 117094,
+            "english_word": "Unmindful",
+            "part_of_speech": "a",
+            "malayalam_definition": "കരുതലില്ലാത്ത"
+        },
+        {
+            "# id": 170303,
+            "english_word": "Unmindful",
+            "part_of_speech": "a",
+            "malayalam_definition": "മനസ്സുവയ്‌ക്കാത്ത"
+        },
+        {
+            "# id": 170304,
+            "english_word": "Unmindful",
+            "part_of_speech": "a",
+            "malayalam_definition": "അലക്ഷ്യമായ"
+        },
+        {
+            "# id": 170305,
+            "english_word": "Unmindful",
+            "part_of_speech": "a",
+            "malayalam_definition": "കരുതാത്ത"
+        },
+        {
+            "# id": 216639,
+            "english_word": "Unmindful",
+            "part_of_speech": "a",
+            "malayalam_definition": "മനസ്സുവെയ്ക്കാത്ത"
+        },
+        {
+            "# id": 170306,
+            "english_word": "Unmissable",
+            "part_of_speech": "a",
+            "malayalam_definition": "നഷ്‌ടപ്പെടുത്തരുതാത്ത"
+        },
+        {
+            "# id": 170307,
+            "english_word": "Unmissable",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉപേക്ഷിക്കരുതാത്ത"
+        },
+        {
+            "# id": 216640,
+            "english_word": "Unmissable",
+            "part_of_speech": "a",
+            "malayalam_definition": "നഷ്ടപ്പെടുത്തരുതാത്ത"
+        },
+        {
+            "# id": 118272,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "കൃത്യമായ"
+        },
+        {
+            "# id": 118273,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "വാസ്‌തവമായ"
+        },
+        {
+            "# id": 118274,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "തെറ്റുപറ്റാത്ത"
+        },
+        {
+            "# id": 118275,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യതിരിക്തമായ"
+        },
+        {
+            "# id": 118276,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്‌പഷ്‌ടമായ"
+        },
+        {
+            "# id": 118277,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "സൂക്ഷ്‌മബുദ്ധിയായ"
+        },
+        {
+            "# id": 170310,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അബദ്ധം വരുവാന്‍ പാടില്ലാത്ത"
+        },
+        {
+            "# id": 170311,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യക്തമായ"
+        },
+        {
+            "# id": 198871,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "അബദ്ധംവരുവാന്‍ പാടില്ലാത്ത"
+        },
+        {
+            "# id": 198872,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "തെറ്റിദ്ധരിക്കാനാവാത്ത"
+        },
+        {
+            "# id": 198873,
+            "english_word": "Unmistakable",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്പഷ്ടമായ"
+        },
+        {
+            "# id": 118362,
+            "english_word": "Unmistakably",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിഷ്‌ക്കളങ്കമായി"
+        },
+        {
+            "# id": 118363,
+            "english_word": "Unmistakably",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്‌പഷ്‌ടമായി"
+        },
+        {
+            "# id": 118364,
+            "english_word": "Unmistakably",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍വ്യാജമായി"
+        },
+        {
+            "# id": 170312,
+            "english_word": "Unmistakably",
+            "part_of_speech": "adv",
+            "malayalam_definition": "തെറ്റാന്‍പാടില്ലാത്തവിധം"
+        },
+        {
+            "# id": 170313,
+            "english_word": "Unmistakably",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യക്തമായി"
+        },
+        {
+            "# id": 120468,
+            "english_word": "Unmitigated",
+            "part_of_speech": "a",
+            "malayalam_definition": "ലഘൂകരിക്കാനാവാത്ത"
+        },
+        {
+            "# id": 170314,
+            "english_word": "Unmitigated",
+            "part_of_speech": "a",
+            "malayalam_definition": "കുറയാത്ത"
+        },
+        {
+            "# id": 170315,
+            "english_word": "Unmitigated",
+            "part_of_speech": "a",
+            "malayalam_definition": "മൃദുവാകാത്ത"
+        },
+        {
+            "# id": 170316,
+            "english_word": "Unmitigated",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശമിക്കാത്ത"
+        },
+        {
+            "# id": 102317,
+            "english_word": "Unmixed",
+            "part_of_speech": "a",
+            "malayalam_definition": "കലര്‍പ്പില്ലാത്ത"
+        },
+        {
+            "# id": 170317,
+            "english_word": "Unmolested",
+            "part_of_speech": "a",
+            "malayalam_definition": "പീഡിപ്പിക്കാത്ത"
+        },
+        {
+            "# id": 170318,
+            "english_word": "Unmolested",
+            "part_of_speech": "a",
+            "malayalam_definition": "ദ്രാഹിക്കാത്ത"
+        },
+        {
+            "# id": 170319,
+            "english_word": "Unmolested",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉപദ്രവിക്കപ്പെടാത്ത"
+        },
+        {
+            "# id": 175436,
+            "english_word": "Unmoor",
+            "part_of_speech": "v",
+            "malayalam_definition": "കപ്പലിന്‍റെ നങ്കൂരമഴിച്ചു തുറന്നു വിടുക"
+        },
+        {
+            "# id": 87320,
+            "english_word": "Unmourned",
+            "part_of_speech": "a",
+            "malayalam_definition": "മരണാനന്തരം ഓര്‍ത്തു വിലപിക്കപ്പെടാത്ത"
+        },
+        {
+            "# id": 87321,
+            "english_word": "Unmoved",
+            "part_of_speech": "a",
+            "malayalam_definition": "മനസ്സിളകാത്ത"
+        },
+        {
+            "# id": 87322,
+            "english_word": "Unmoved",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിര്‍വികാരമായ"
+        },
+        {
+            "# id": 87323,
+            "english_word": "Unmoved",
+            "part_of_speech": "a",
+            "malayalam_definition": "സുസ്ഥിരമനസ്സായ"
+        },
+        {
+            "# id": 170322,
+            "english_word": "Unmoved",
+            "part_of_speech": "a",
+            "malayalam_definition": "സാത്ത്വികമായ"
+        },
+        {
+            "# id": 170323,
+            "english_word": "Unmoved",
+            "part_of_speech": "a",
+            "malayalam_definition": "അചഞ്ചലമായ"
+        },
+        {
+            "# id": 100632,
+            "english_word": "Unmoving",
+            "part_of_speech": "a",
+            "malayalam_definition": "ചലിക്കാത്ത"
+        },
+        {
+            "# id": 86224,
+            "english_word": "Unnameable",
+            "part_of_speech": "a",
+            "malayalam_definition": "രമ്യതയില്ലാത്ത"
+        },
+        {
+            "# id": 170320,
+            "english_word": "Unnamed",
+            "part_of_speech": "a",
+            "malayalam_definition": "പേരുകൊടുക്കാനാവാത്ത"
+        },
+        {
+            "# id": 170321,
+            "english_word": "Unnamed",
+            "part_of_speech": "a",
+            "malayalam_definition": "അജ്ഞാതനാമാവായ"
+        },
+        {
+            "# id": 216641,
+            "english_word": "Unnamed",
+            "part_of_speech": "a",
+            "malayalam_definition": "പേരുകൊടുക്കാനാവാത്ത"
+        },
+        {
+            "# id": 87333,
+            "english_word": "Unnatural",
+            "part_of_speech": "a",
+            "malayalam_definition": "പ്രകൃതിവിരുദ്ധമായ"
+        },
+        {
+            "# id": 87334,
+            "english_word": "Unnatural",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസ്വാഭാവികമായ"
+        },
+        {
+            "# id": 170324,
+            "english_word": "Unnatural",
+            "part_of_speech": "a",
+            "malayalam_definition": "കൃത്രിമമായ"
+        },
+        {
+            "# id": 170325,
+            "english_word": "Unnatural",
+            "part_of_speech": "a",
+            "malayalam_definition": "നാട്യമുള്ള"
+        },
+        {
+            "# id": 87335,
+            "english_word": "Unnatural death",
+            "part_of_speech": "n",
+            "malayalam_definition": "അപമൃത്യു"
+        },
+        {
+            "# id": 170326,
+            "english_word": "Unnaturally",
+            "part_of_speech": "adv",
+            "malayalam_definition": "അസ്വാഭാവികമായി"
+        },
+        {
+            "# id": 170327,
+            "english_word": "Unnaturally",
+            "part_of_speech": "adv",
+            "malayalam_definition": "പ്രകൃതിവിരുദ്ധമായി"
+        },
+        {
+            "# id": 170331,
+            "english_word": "Unnecessarily",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനാവശ്യമായി"
+        },
+        {
+            "# id": 170332,
+            "english_word": "Unnecessarily",
+            "part_of_speech": "adv",
+            "malayalam_definition": "പ്രയോജനരഹിതമായി"
+        },
+        {
+            "# id": 216642,
+            "english_word": "Unnecessarily",
+            "part_of_speech": "adv",
+            "malayalam_definition": "അനാവശ്യമായി"
+        },
+        {
+            "# id": 216643,
+            "english_word": "Unnecessarily",
+            "part_of_speech": "adv",
+            "malayalam_definition": "പ്രയോജനരഹിതമായി"
+        },
+        {
+            "# id": 101504,
+            "english_word": "Unnecessary",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആവശ്യമല്ലാത്ത"
+        },
+        {
+            "# id": 101505,
+            "english_word": "Unnecessary",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനാവശ്യമായ"
+        },
+        {
+            "# id": 170328,
+            "english_word": "Unnecessary",
+            "part_of_speech": "a",
+            "malayalam_definition": "വേണ്ടാത്ത"
+        },
+        {
+            "# id": 170329,
+            "english_word": "Unnecessary",
+            "part_of_speech": "a",
+            "malayalam_definition": "വെറുതെയുള്ള"
+        },
+        {
+            "# id": 170330,
+            "english_word": "Unnecessary",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യര്‍ത്ഥമായ"
+        },
+        {
+            "# id": 216644,
+            "english_word": "Unnecessary",
+            "part_of_speech": "a",
+            "malayalam_definition": "വെറുതേയുള്ള"
+        },
+        {
+            "# id": 101919,
+            "english_word": "Unnecessary expenditure",
+            "part_of_speech": "n",
+            "malayalam_definition": "അനാവശ്യച്ചിലവ്‌"
+        },
+        {
+            "# id": 120885,
+            "english_word": "Unnerve",
+            "part_of_speech": "n",
+            "malayalam_definition": "അക്ഷോഭ്യത"
+        },
+        {
+            "# id": 120886,
+            "english_word": "Unnerve",
+            "part_of_speech": "n",
+            "malayalam_definition": "നിര്‍വ്വികാരത"
+        },
+        {
+            "# id": 170333,
+            "english_word": "Unnerve",
+            "part_of_speech": "v",
+            "malayalam_definition": "തളര്‍ത്തുക"
+        },
+        {
+            "# id": 170334,
+            "english_word": "Unnerve",
+            "part_of_speech": "v",
+            "malayalam_definition": "വീര്യം കെടുത്തുക"
+        },
+        {
+            "# id": 170335,
+            "english_word": "Unnerve",
+            "part_of_speech": "v",
+            "malayalam_definition": "ശക്തി കുറയ്‌ക്കുക"
+        },
+        {
+            "# id": 198874,
+            "english_word": "Unnerve",
+            "part_of_speech": "n",
+            "malayalam_definition": "ശക്തികുറയ്ക്കുക"
+        },
+        {
+            "# id": 198875,
+            "english_word": "Unnerve",
+            "part_of_speech": "n",
+            "malayalam_definition": "ബലഹീനമാക്കുക"
+        },
+        {
+            "# id": 198876,
+            "english_word": "Unnerve",
+            "part_of_speech": "n",
+            "malayalam_definition": "അധൈര്യപ്പെടുത്തുക"
+        },
+        {
+            "# id": 198877,
+            "english_word": "Unnerve",
+            "part_of_speech": "v",
+            "malayalam_definition": "ആത്മവിശ്വാസം നഷ്ടപ്പെടുത്തുക"
+        },
+        {
+            "# id": 216645,
+            "english_word": "Unnerve",
+            "part_of_speech": "v",
+            "malayalam_definition": "ശക്തി കുറയ്ക്കുക"
+        },
+        {
+            "# id": 170336,
+            "english_word": "Unnerving",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശക്തിചോര്‍ത്തുന്ന"
+        },
+        {
+            "# id": 170337,
+            "english_word": "Unnerving",
+            "part_of_speech": "a",
+            "malayalam_definition": "ധൈര്യം കെടുത്തുന്ന"
+        },
+        {
+            "# id": 216646,
+            "english_word": "Unnerving",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശക്തിചോര്‍ത്തുന്ന"
+        },
+        {
+            "# id": 170338,
+            "english_word": "Unnervingly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ധൈര്യം കെടുത്തും വിധം"
+        },
+        {
+            "# id": 170339,
+            "english_word": "Unnervingly",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ശൗര്യമില്ലാതാക്കുംവണ്ണം"
+        },
+        {
+            "# id": 170340,
+            "english_word": "Unnoticed",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഗൗനിക്കാതെപോയ"
+        },
+        {
+            "# id": 170341,
+            "english_word": "Unnoticed",
+            "part_of_speech": "a",
+            "malayalam_definition": "കാണാത്ത"
+        },
+        {
+            "# id": 170342,
+            "english_word": "Unnoticed",
+            "part_of_speech": "prep",
+            "malayalam_definition": "ഗണിക്കാത്ത"
+        },
+        {
+            "# id": 216647,
+            "english_word": "Unnoticed",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഗൗനിക്കാതെപോയ"
+        },
+        {
+            "# id": 216648,
+            "english_word": "Unnoticed",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഗണിക്കാത്ത"
+        },
+        {
+            "# id": 87336,
+            "english_word": "Unobservant",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഗൗനിക്കാത്ത"
+        },
+        {
+            "# id": 87337,
+            "english_word": "Unobservant",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനുഷ്‌ഠിക്കാത്ത"
+        },
+        {
+            "# id": 87338,
+            "english_word": "Unobservant",
+            "part_of_speech": "a",
+            "malayalam_definition": "പരാങ്‌മുഖമായ"
+        },
+        {
+            "# id": 87339,
+            "english_word": "Unobservant",
+            "part_of_speech": "a",
+            "malayalam_definition": "നിരീക്ഷണശക്തി കുറവായ"
+        },
+        {
+            "# id": 103028,
+            "english_word": "Unobstructed",
+            "part_of_speech": "a",
+            "malayalam_definition": "തടസ്സപ്പെടുത്താത്ത"
+        },
+        {
+            "# id": 103029,
+            "english_word": "Unobstructed",
+            "part_of_speech": "a",
+            "malayalam_definition": "തടയില്ലാത്ത"
+        },
+        {
+            "# id": 170343,
+            "english_word": "Unobtrusive",
+            "part_of_speech": "a",
+            "malayalam_definition": "സാധുശീലമുള്ള"
+        },
+        {
+            "# id": 170344,
+            "english_word": "Unobtrusive",
+            "part_of_speech": "a",
+            "malayalam_definition": "അച്ചടക്കമുള്ള"
+        },
+        {
+            "# id": 170345,
+            "english_word": "Unobtrusive",
+            "part_of_speech": "a",
+            "malayalam_definition": "മര്യാദയുള്ള"
+        },
+        {
+            "# id": 120944,
+            "english_word": "Unoccupied",
+            "part_of_speech": "a",
+            "malayalam_definition": "ശൂന്യമായ"
+        },
+        {
+            "# id": 120945,
+            "english_word": "Unoccupied",
+            "part_of_speech": "a",
+            "malayalam_definition": "വ്യാപൃതമല്ലാത്ത"
+        },
+        {
+            "# id": 170346,
+            "english_word": "Unoccupied",
+            "part_of_speech": "a",
+            "malayalam_definition": "ആള്‍പ്പാര്‍പ്പില്ലാത്ത"
+        },
+        {
+            "# id": 170347,
+            "english_word": "Unoccupied",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഒഴിവായ"
+        },
+        {
+            "# id": 87340,
+            "english_word": "Unofficial",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനൗദ്യോഗികമായ"
+        },
+        {
+            "# id": 87341,
+            "english_word": "Unofficial",
+            "part_of_speech": "a",
+            "malayalam_definition": "സ്വകാര്യനിലയിലുള്ള"
+        },
+        {
+            "# id": 170348,
+            "english_word": "Unofficial",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉദ്യോഗസംബന്ധമല്ലാത്ത"
+        },
+        {
+            "# id": 216649,
+            "english_word": "Unofficial",
+            "part_of_speech": "a",
+            "malayalam_definition": "ഉദ്യോഗസംബന്ധമല്ലാത്ത"
+        },
+        {
+            "# id": 216650,
+            "english_word": "Unofficial",
+            "part_of_speech": "a",
+            "malayalam_definition": "അനൗദ്യോഗികമായ"
+        },
+        {
+            "# id": 170349,
+            "english_word": "Unofficially",
+            "part_of_speech": "adv",
+            "malayalam_definition": "അനൗദ്യോഗികമായി"
+        },
+        {
+            "# id": 170350,
+            "english_word": "Unofficially",
+            "part_of_speech": "adv",
+            "malayalam_definition": "ആധികാരികമല്ലാത്തതായി"
+        },
+        {
+            "# id": 216651,
+            "english_word": "Unofficially",
+            "part_of_speech": "adv",
+            "malayalam_definition": "അനൗദ്യോഗികമായി"
+        },
+        {
+            "# id": 87342,
+            "english_word": "Unopposed",
+            "part_of_speech": "a",
+            "malayalam_definition": "എതിര്‍ക്കപ്പെടാത്ത"
+        },
+        {
+            "# id": 87343,
+            "english_word": "Unopposed",
+            "part_of_speech": "a",
+            "malayalam_definition": "എതിരില്ലാത്ത"
+        },
+        {
+            "# id": 201765,
+            "english_word": "Unorganised",
+            "part_of_speech": "a",
+            "malayalam_definition": "അസംഖടിതം"
+        },
+        {
+            "# id": 200154,
+            "english_word": "Unorious",
+            "part_of_speech": "n",
+            "malayalam_definition": "കുപ്രസിദ്ധമായ"
+        },
+        {
+            "# id": 170353,
+            "english_word": "Unorthodox",
+            "part_of_speech": "a",
+            "malayalam_definition": "മതനിഷ്‌ഠമല്ലാത്ത"
+        },
+        {
+            "# id": 170354,
+            "english_word": "Unorthodox",
+            "part_of_speech": "a",
+            "malayalam_definition": "യാഥാസ്ഥിതികമല്ലാത്ത"
+        },
+        {
+            "# id": 216652,
+            "english_word": "Unorthodox",
+            "part_of_speech": "a",
+            "malayalam_definition": "മതനിഷ്ഠമല്ലാത്ത"
+        },
+        {
+            "# id": 119682,
+            "english_word": "Unorthodoxy",
+            "part_of_speech": "n",
+            "malayalam_definition": "അയാഥാസ്ഥിതികത്വം"
+        },
+    ]
+}
