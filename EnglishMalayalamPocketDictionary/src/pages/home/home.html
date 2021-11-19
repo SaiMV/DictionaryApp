@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-searchbar placeholder="Start searching here" (keyup)="searchValue($event)"></ion-searchbar>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+
+      <ion-list >
+        <ion-card *ngFor="let item of items;let index = i; ">
+          <ion-card-header no-padding padding-left="10px" padding-right="10px">
+            <ion-card-title >
+              <ion-label color="primary" float-left>{{item.english_word}}</ion-label>
+              <ion-label  float-right>{{item.part_of_speech}}</ion-label>
+            </ion-card-title>
+          </ion-card-header>
+          <ion-card-content>
+            <div col-12 style="font-size: 16px">
+              {{item.malayalam_definition}}
+            </div>
+          </ion-card-content>
+        </ion-card>
+      </ion-list>
+
+  <ion-infinite-scroll (ionInfinite)="$event.waitFor(doInfinite())">
+    <ion-infinite-scroll-content></ion-infinite-scroll-content>
+  </ion-infinite-scroll>
+</ion-content>

@@ -1,0 +1,27 @@
+page-home {
+
+.card-title{
+  padding: 0px;
+
+}
+  ion-card-header{
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+  }
+  ion-label[color='primary']{
+    margin:10px 0px 0px 5px;
+    font-size: 14px;
+    text-transform: capitalize;
+    white-space: normal;
+    width: calc(100% - 50px);
+  }
+  .card-content{
+  padding: 5px;
+}
+  .card-content > div {
+    font-size: 12px !important;
+  }
+  ion-card-title ion-label[float-right]{
+    font-size: 12px;
+  }
+}

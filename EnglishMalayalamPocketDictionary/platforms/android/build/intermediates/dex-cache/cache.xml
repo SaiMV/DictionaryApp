@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Sai/EnglishMalayalamPocketDictionary/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="1d3f3c2aecd181873fa48e1cfe8feef880d8ad85">
+        <dex dex="/Users/Sai/EnglishMalayalamPocketDictionary/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.2.3-debug_f91484293c7f49b0b21e754a62c99f3355fff23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Sai/EnglishMalayalamPocketDictionary/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="71d115ab5884732363cd272346b246a5efb54f5c">
+        <dex dex="/Users/Sai/EnglishMalayalamPocketDictionary/platforms/android/build/intermediates/pre-dexed/release/CordovaLib-6.2.3-release_221c60457b8301cb276aa35d060968e6cabf3d24.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+{
+  "name": "English-Malayalam-Dictionary",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

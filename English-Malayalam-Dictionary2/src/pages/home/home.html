@@ -1,0 +1,38 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Home</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <!--<ion-list>-->
+      <!--<ion-item *ngFor="let i of items">{{i.english_word}}  : {{i.malayalam_definition}}</ion-item>-->
+    <!--</ion-list>-->
+    <!--<ion-infinite-scroll (ionInfinite)="$event.waitFor(doInfinite())">-->
+      <!--<ion-infinite-scroll-content-->
+        <!--loadingSpinner="bubbles"-->
+        <!--loadingText="Loading more data...">-->
+      <!--</ion-infinite-scroll-content>-->
+    <!--</ion-infinite-scroll>-->
+  <ion-label (click)="loadDictionaryItems()">Load Data</ion-label>
+  <ion-list>
+    <!--<ion-item *ngFor="let i of csvData">{{i.english_word}}  : {{i.malayalam_definition}}</ion-item>-->
+    <ion-item *ngFor="let i of csvData">{{i[1]}}  : {{i[i.length()]-1 }}</ion-item>
+  </ion-list>
+
+  <ion-infinite-scroll (ionInfinite)="$event.waitFor(doInfinite())">
+    <ion-infinite-scroll-content></ion-infinite-scroll-content>
+  </ion-infinite-scroll>
+  <ion-scroll scrollX="true" scrollY="true" class="data-scroll">
+    <!--<table border="1" class="data-table">-->
+      <!--<tr>-->
+        <!--<td *ngFor="let header of headerRow" text-center><b>{{ header }}</b></td>-->
+      <!--</tr>-->
+      <!--<tr *ngFor="let row of csvData; let i = index">-->
+        <!--<td *ngFor="let data of row; let j = index;trackBy:trackByFn">-->
+          <!--<ion-input type="text" [(ngModel)]="csvData[i][j]"></ion-input>-->
+        <!--</td>-->
+      <!--</tr>-->
+    <!--</table>-->
+  </ion-scroll>
+</ion-content>
